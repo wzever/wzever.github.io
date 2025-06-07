@@ -52,7 +52,7 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 
 - We propose a novel paradigm Adaptive Expansion (AE) and the COExpander solver for NCO solving. It bridges the global prediction (GP) and local construction (LC) paradigms via a partial state prompted heatmap generator with adaptive step sizes for decision-making.
-- We re-wrap 5 non-learning baseline solvers and re-cononicalize 29 standard datasets to provide a just and generalizable benchmark for 6 commonly studied COPs.
+- We re-wrap 5 non-learning baseline solvers and re-cononicalize 29 standard datasets to provide a standard benchmark for 6 commonly studied COPs.
 - Compared with previous neural SOTA, COExpander has reduced the average optimality drop on 6 COPs from 3.81% to 0.66%, with a speedup of 4.0x.
 </div>
 </div>
@@ -67,7 +67,7 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 - We propose the UniCO framework to unify a set of CO problems by reducing them into the general TSP form for effective and simultaneous training.
 - This work focuses on the challenging TSPs that are non-metric, asymmetric or discrete distances without explicit node coordinates.
-- Two neural TSP solvers are devised w/ and w/o supervision to conquer such matrix-formulated input, respectively: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, the a Diffusion-based generative model with the mix-noised reference mapping scheme.
+- Two neural TSP solvers are devised w/ and w/o supervision to conquer such matrix input, respectively: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, a Diffusion-based generative model with the mix-noised reference mapping scheme.
 - Pioneering experiments have been conducted on ATSP, 2DTSP, HCP- and SAT-distributed general matrix-encoded TSPs.
 </div>
 </div>
@@ -79,8 +79,8 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan
 
-- We present ML4TSPBench, which advances a unified modular streamline incorporating existing technologies in both learning and search for transparent ablation.
-- We demonstrate the desirability of principles like joint probability estimation, symmetry solution representation, and online optimization for learning-based design.
+- ML4TSPBench advances a unified modular streamline incorporating existing technologies in both learning and search for transparent ablation.
+- The desired principles are joint probability estimation, symmetry solution representation, and online optimization, for ML4TSP solver design.
 - The strategic decoupling and organic recompositions yield a factory of new and stronger TSP solvers.
 </div>
 </div>
@@ -93,8 +93,8 @@ Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Jun
 Runzhong Wang, Ziao Guo, **Wenzheng Pan**, Jiale Ma, Yikai Zhang, Nan Yang, Qi Liu, Longxuan Wei, Hanxue Zhang, Chang Liu, Zetian Jiang, Xiaokang Yang, Junchi Yan
 
 
-- Pygmtools is released as a Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers.
-- Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, with friendly documentations and beginner’s guide,
+- Pygmtools is released as a Python graph matching toolkit that implements a comprehensive collection of two-graph and multi-graph matching solvers.
+- Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, with friendly guidance.
 </div>
 </div>
 
