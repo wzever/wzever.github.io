@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenzheng Pan"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Neural Combinatorial Optimization | Generative Models | Machine Learning on Graphs"
 repository               : "wzever/wzever.github.io"
 google_scholar_stats_use_cdn : true
 
