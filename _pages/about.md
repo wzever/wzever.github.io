@@ -50,7 +50,8 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
-[**Code**](https://github.com/Thinklab-SJTU/COExpander) 
+[**Code** (coming soon) ![](https://img.shields.io/github/stars/Thinklab-SJTU/COExpander?style=social)](https://github.com/Thinklab-SJTU/COExpander)
+
 
 - We propose a novel paradigm Adaptive Expansion (AE) and the COExpander solver for NCO solving. It bridges the global prediction (GP) and local construction (LC) paradigms via a partial state prompted heatmap generator with adaptive step sizes for decision-making.
 - Compared with previous neural SOTA, COExpander has reduced the average optimality drop on 6 COPs from 3.81% to 0.66%, with a speedup of 4.0x.
@@ -65,7 +66,8 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 **Wenzheng Pan**\*, Hao Xiong\*, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan
 
-[**Code**](https://github.com/Thinklab-SJTU/UniCO) 
+[**Code** ![](https://img.shields.io/github/stars/Thinklab-SJTU/UniCO?style=social)](https://github.com/Thinklab-SJTU/UniCO)
+
 
 - This work xxx
 </div>
@@ -78,7 +80,7 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan
 
-[**Code**](https://github.com/Thinklab-SJTU/ML4TSPBench) 
+[**Code** ![](https://img.shields.io/github/stars/Thinklab-SJTU/ML4TSPBench?style=social)](https://github.com/Thinklab-SJTU/ML4TSPBench)
 
 - This work xxx
 </div>
@@ -91,7 +93,8 @@ Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Jun
 
 Runzhong Wang, Ziao Guo, **Wenzheng Pan**, Jiale Ma, Yikai Zhang, Nan Yang, Qi Liu, Longxuan Wei, Hanxue Zhang, Chang Liu, Zetian Jiang, Xiaokang Yang, Junchi Yan
 
-[**Code**](https://github.com/Thinklab-SJTU/pygmtools) 
+[**Code** ![](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools)
+
 
 - This work xxx
 </div>
