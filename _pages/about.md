@@ -43,7 +43,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='https://rayeren.github.io/_pages/images/coexpander.png' alt="sym" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='https://wzever.github.io/_pages/images/coexpander.png' alt="sym" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CCF-A] [COExpander: Adaptive Solution Expansion for Combinatorial Optimization](https://www.researchgate.net/publication/391363643_COExpander_Adaptive_Solution_Expansion_for_Combinatorial_Optimization)
