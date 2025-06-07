@@ -48,9 +48,34 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 [CCF-A] [COExpander: Adaptive Solution Expansion for Combinatorial Optimization](https://www.researchgate.net/publication/391363643_COExpander_Adaptive_Solution_Expansion_for_Combinatorial_Optimization)
 
-Jiale Ma*, **Wenzheng Pan***, Yang Li, Junchi Yan
+Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 [**Code**](https://github.com/Thinklab-SJTU/COExpander) 
+
+- We propose a novel paradigm, namely Adaptive Expansion (AE), and the COExpander solver for solving COPs through machine learning. It bridges the global prediction (GP) and local construction (LC) paradigms via utilization of a partial state prompted solution generator, replacing the rigid decision with adaptive step sizes beyond auto-regression and one-shot solving.
+- Compared with previous neural SOTA, COExpander has reduced the average optimality drop on 6 COPs from 3.807% to 0.657%, with a speedup of 4.0x.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://wzever.github.io/_pages/images/coexpander.png' alt="sym" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAAI/Tsinghua-A] [UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP](https://openreview.net/pdf?id=yEwakMNIex)
+
+**Wenzheng Pan**\*, Hao Xiong\*, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan
+
+[**Code**](https://github.com/Thinklab-SJTU/UniCO) 
+
+- This work xxx
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://wzever.github.io/_pages/images/coexpander.png' alt="sym" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAAI/Tsinghua-A] [Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search](https://openreview.net/pdf?id=yEwakMNIex)
+
+Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan
+
+[**Code**](https://github.com/Thinklab-SJTU/ML4TSPBench) 
+
+- This work xxx
 
 
 # ⚙️ Projects & Open-source Contributions
