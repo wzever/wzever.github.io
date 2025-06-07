@@ -39,6 +39,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 {% include_relative pubs.md %}
 
+<span class='anchor' id='-open-source-projects'></span>
 # ⚙️ Open Source Projects
 
 - [Awesome-ML4CO ![](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social)](https://github.com/Thinklab-SJTU/awesome-ml4co), a curated collection of literature in the ML4CO field, organized to support researchers in accessing both foundational and recent developments. This repository is maintained with a joint effort by members in SJTU-Thinklab as well as contributors from the community.
