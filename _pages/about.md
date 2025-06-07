@@ -52,13 +52,13 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 [**Code**](https://github.com/Thinklab-SJTU/COExpander) 
 
-- We propose a novel paradigm, namely Adaptive Expansion (AE), and the COExpander solver for solving COPs through machine learning. It bridges the global prediction (GP) and local construction (LC) paradigms via a partial state prompted solution generator with adaptive step sizes beyond auto-regression and one-shot solving.
+- We propose a novel paradigm Adaptive Expansion (AE) and the COExpander solver for NCO solving. It bridges the global prediction (GP) and local construction (LC) paradigms via a partial state prompted heatmap generator with adaptive step sizes for decision-making.
 - Compared with previous neural SOTA, COExpander has reduced the average optimality drop on 6 COPs from 3.81% to 0.66%, with a speedup of 4.0x.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://wzever.github.io/_pages/images/unico.png' alt="sym" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://wzever.github.io/_pages/images/unico_v2.png' alt="sym" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAAI/Tsinghua-A] [UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP](https://openreview.net/pdf?id=yEwakMNIex)
