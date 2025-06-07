@@ -23,12 +23,19 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.05*: 🎉 One paper is accepted by **ICML 2025**
+- *2025.02*: 🎉 Two papers are accepted by **ICLR 2025**
+- *2024.10*: 🔍 I served as a **reviewer** at **ICLR 2025**
+- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU
+- *2024.01*: 🎉 One paper is accepted by **JMLR**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (**top 10%** in SJTU)
+- *2021-2023* (Annual) Academic Excellence Scholarship (**top 10%** in Dept.)
+- *2022.11* Huatai Securities Technology Scholarship (**40** awarded in SJTU)
+- *2021.11* SMC-Takada Scholarship (**top 5%** in Dept.) 
+- *2021.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
+- *2021.05* Merit League Member of Shanghai Jiao Tong University (**top 8%** in SJTU) 
 
 # 📖 Educations
 - *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree)
