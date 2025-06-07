@@ -76,11 +76,9 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://wzever.github.io/_pages/images/UnifyML4TSP.png' alt="sym" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CAAI/Tsinghua-A] [Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search](https://openreview.net/forum?id=grU1VKEOLi)
+[**CAAI/Tsinghua-A**|[**PDF**](https://openreview.net/pdf?id=yEwakMNIex)|[**Code** ![](https://img.shields.io/github/stars/Thinklab-SJTU/ML4TSPBench?style=social)](https://github.com/Thinklab-SJTU/ML4TSPBench)] [Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search](https://openreview.net/forum?id=grU1VKEOLi)
 
 Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan
-
-[**PDF**](https://openreview.net/pdf?id=yEwakMNIex) | [**Code** ![](https://img.shields.io/github/stars/Thinklab-SJTU/ML4TSPBench?style=social)](https://github.com/Thinklab-SJTU/ML4TSPBench)
 
 - This work xxx
 </div>
