@@ -43,7 +43,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/coexpander.png' alt="sym" width="500"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='https://github.com/wzever/wzever.github.io/blob/55089af9a2b6ff064579d20233856001455da1df/_pages/images/coexpander.png' alt="sym" width="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CCF-A] [COExpander: Adaptive Solution Expansion for Combinatorial Optimization](https://www.researchgate.net/publication/391363643_COExpander_Adaptive_Solution_Expansion_for_Combinatorial_Optimization)
@@ -51,10 +51,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 Jiale Ma*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 [**Code**](https://github.com/Thinklab-SJTU/COExpander) 
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
+
 
 # ⚙️ Projects & Open-source Contributions
 
