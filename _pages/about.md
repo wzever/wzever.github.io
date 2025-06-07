@@ -46,13 +46,12 @@ I am currently a first-year master student at the School of Computer Science, Sh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CCF-A] [COExpander: Adaptive Solution Expansion for Combinatorial Optimization](https://www.researchgate.net/profile/Jiale-Ma-9/publication/391363643_COExpander_Adaptive_Solution_Expansion_for_Combinatorial_Optimization/links/6813b80e60241d5140214026/COExpander-Adaptive-Solution-Expansion-for-Combinatorial-Optimization.pdf?origin=publicationDetail&_sg%5B0%5D=GFN_dUGlsseiClEdrgE8AqXjQM23b4_8MZ3zSBf1HJxDHYcziPZHHi2TD6aPydNznQdW17MU79Vscfgt2FXWNQ.lR-j1-MHg9DIaDHwS_NI60D1kdv3DDO8hM01iya_Pp0Qc7BkH6ckEfIbGCm6GKxdjyf4vpwsha-3AuuVqO57GQ&_sg%5B1%5D=scpTENciwSkJZaB2tY89xbufGaPo251NsIb7bb8KZyMQWfmfubdkiorykbASUUasaPTSu-1dvbW-R05IKawBob603xYMQ3JrUPJuhk-DK_Cn.lR-j1-MHg9DIaDHwS_NI60D1kdv3DDO8hM01iya_Pp0Qc7BkH6ckEfIbGCm6GKxdjyf4vpwsha-3AuuVqO57GQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ)
+[CCF-A] [COExpander: Adaptive Solution Expansion for Combinatorial Optimization](https://www.researchgate.net/publication/391363643_COExpander_Adaptive_Solution_Expansion_for_Combinatorial_Optimization)
 
 Jiale Ma*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 [**Code**](https://github.com/Thinklab-SJTU/COExpander) 
-<!--
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
