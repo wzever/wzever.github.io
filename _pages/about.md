@@ -21,7 +21,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 📖 Educations
+## 📖 Educations
 - *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree)
 - *2020.09 - 2024.06*, Department of Computer Science and Engineering (IEEE Honors Class), SJTU (B.E. Degree obtained)
     - Overall: ![](https://img.shields.io/badge/GPA-3.92-blue) ![](https://img.shields.io/badge/Grade-90.82-blue) ![](https://img.shields.io/badge/Ranking-top_10%25-blue)
@@ -29,7 +29,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
     - Language: ![](https://img.shields.io/badge/IELTS-7.5-green) ![](https://img.shields.io/badge/CET--6-646-green)
       ![](https://img.shields.io/badge/CET--4-670-green)
 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (**top 10%** in SJTU)
 - *2021-2023* (Annual) Academic Excellence Scholarship (**top 10%** in Dept.)
 - *2022.11* Huatai Securities Technology Scholarship (**40** awarded in SJTU)
@@ -40,7 +40,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 {% include_relative pubs.md %}
 
 <span class='anchor' id='-open-source-projects'></span>
-# ⚙️ Open Source Projects
+## ⚙️ Open Source Projects
 
 - [Awesome-ML4CO ![](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social)](https://github.com/Thinklab-SJTU/awesome-ml4co), a curated collection of literature in the ML4CO field, organized to support researchers in accessing both foundational and recent developments. This repository is maintained with a joint effort by members in SJTU-Thinklab as well as contributors from the community.
 
@@ -52,7 +52,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 - [Pygmtools ![](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools), a Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers, covering both learning-free solvers as well as learning-based neural graph matching solvers. Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, and is friendly to install and configure.
 
-# 🔥 News
+## 🔥 News
 - *2025.05*: 🎉 One paper is accepted by **ICML 2025**
 - *2025.01*: 🎉 Two papers are accepted by **ICLR 2025**
 - *2024.10*: 🔍 I served as a **reviewer** at **ICLR 2025**
