@@ -1,4 +1,4 @@
-# 📝 Publications 
+## 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='https://wzever.github.io/_pages/images/coexpander.png' alt="sym" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
