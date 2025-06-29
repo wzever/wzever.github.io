@@ -59,11 +59,11 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 ## 🔥 News
 ---
-- *2025.05*: 🎉 One paper was accepted by **ICML 2025**
-- *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**
-- *2024.10*: 🔍 I served as a **reviewer** at **ICLR 2025**
-- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU
-- *2024.01*: 🎉 One paper was accepted by **JMLR**
+- *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
+- *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
+- *2024.10*: 🔍 I served as a **reviewer** at **ICLR 2025**!
+- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU!
+- *2024.01*: 🎉 One paper was accepted by **JMLR**!
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
