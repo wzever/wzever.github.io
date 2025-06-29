@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='https://wzever.github.io/_pages/images/coexpander.png' alt="coexpander" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(CCF-A) [**COExpander: Adaptive Solution Expansion for Combinatorial Optimization**](https://www.researchgate.net/publication/391363643_COExpander_Adaptive_Solution_Expansion_for_Combinatorial_Optimization) [[PDF](https://www.researchgate.net/profile/Jiale-Ma-9/publication/391363643_COExpander_Adaptive_Solution_Expansion_for_Combinatorial_Optimization/links/6813b80e60241d5140214026/COExpander-Adaptive-Solution-Expansion-for-Combinatorial-Optimization.pdf)][[Code (coming soon) ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/COExpander?style=social)](https://github.com/Thinklab-SJTU/COExpander)]
+(CCF-A) [**COExpander: Adaptive Solution Expansion for Combinatorial Optimization**](https://openreview.net/forum?id=KMaBXMWsBM) [[PDF](https://openreview.net/pdf?id=KMaBXMWsBM)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/COExpander?style=social)](https://github.com/Thinklab-SJTU/COExpander)]
 
 Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
