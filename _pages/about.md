@@ -59,6 +59,7 @@ I am currently a first-year master student at the School of Computer Science, Sh
 
 ## 🔥 News
 ---
+- *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
 - *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
 - *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
 - *2024.10*: 🔍 I served as a **reviewer** at **ICLR 2025**!
