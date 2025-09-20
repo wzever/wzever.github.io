@@ -1,5 +1,18 @@
 ## 📝 Publications 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='https://wzever.github.io/_pages/images/ml4co_bench_101.png' alt="ml4co_bench_101" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+(CCF-A) [**ML4CO-Bench-101: Benchmark Machine Learning
+for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=ye4ntB1Kzi) [[PDF](https://openreview.net/pdf?id=ye4ntB1Kzi)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social)](https://github.com/Thinklab-SJTU/ML4CO-Bench-101)]
+
+Jiale Ma, **Wenzheng Pan**, Yang Li, Junchi Yan
+
+
+In this paper, we establish a modular and streamlined framework benchmarking prevalent neural CO methods, dissecting their design choices via a tri-leveled “paradigm-model-learning” taxonomy to better characterize different approaches. Further, we integrate their shared features and respective strengths to form 3 unified solvers representing global prediction (GP), local construction (LC), and adaptive expansion (AE) mannered neural solvers. We also collate a total of 34 datasets for 7 mainstream CO problems (including both edge-oriented tasks: TSP, ATSP, CVRP, as well as node-oriented: MIS, MCl, MVC, MCut) across scales to facilitate more comparable results among literature.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='https://wzever.github.io/_pages/images/coexpander.png' alt="coexpander" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
