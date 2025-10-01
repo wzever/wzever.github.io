@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍💻 About Me
-I am currently a first-year master student at the School of Computer Science, Shanghai Jiao Tong University [(上海交通大学计算机学院)](https://www.cs.sjtu.edu.cn). I have been a member of [ReThinkLab](https://github.com/Thinklab-SJTU) since 2022 and supervised by [Prof. Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (IEEE Honors Class) of SJTU in 2024. My recent research interests include (general-purpose) neural combinatorial optimization, generative models (esp. for discrete optimization), and broader fields of machine learning on graphs.
+I am currently a second-year master student at the [School of Computer Science, Shanghai Jiao Tong University (上海交通大学计算机学院)](https://www.cs.sjtu.edu.cn). I have been a member of [ReThinkLab](https://github.com/Thinklab-SJTU) since 2022 and supervised by [Prof. Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (IEEE Honors Class) of SJTU in 2024. My recent research interests include (general-purpose) neural combinatorial optimization, generative models (esp. for discrete optimization), and broader fields of machine learning on graphs.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -40,7 +40,17 @@ I am currently a first-year master student at the School of Computer Science, Sh
 - *2022.11* Huatai Securities Technology Scholarship (**40** awarded in SJTU)
 - *2021.11* SMC-Takada Scholarship (**top 5%** in Dept.) 
 - *2021.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
-- *2021.05* Merit League Member of Shanghai Jiao Tong University (**top 8%** in SJTU) 
+- *2021.05* Merit League Member of Shanghai Jiao Tong University (**top 8%** in SJTU)
+
+## 🔥 News
+---
+- *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026**!
+- *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
+- *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
+- *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
+- *2024.10*: 🔍 I served as a **reviewer** for **ICLR 2025**!
+- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU!
+- *2024.01*: 🎉 One paper was accepted by **JMLR**!
 
 {% include_relative pubs.md %}
 
@@ -56,15 +66,6 @@ I am currently a first-year master student at the School of Computer Science, Sh
 - [ML4CO-Bench-101 ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social)](https://github.com/Thinklab-SJTU/ML4CO-Bench-101), a benchmark that categorizes neural combinatorial optimization (NCO) solvers by solving paradigms, model designs, and learning strategies. It evaluates applicability and generalization of different NCO approaches across a broad range of combinatorial optimization problems to uncover universal insights that can be transferred across various domains of ML4CO.
 
 - [Pygmtools ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools), a Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers, covering both learning-free solvers as well as learning-based neural graph matching solvers. Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, and is friendly to install and configure.
-
-## 🔥 News
----
-- *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
-- *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
-- *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
-- *2024.10*: 🔍 I served as a **reviewer** at **ICLR 2025**!
-- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU!
-- *2024.01*: 🎉 One paper was accepted by **JMLR**!
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
