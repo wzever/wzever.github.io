@@ -43,17 +43,6 @@ I am currently a second-year master student (preparing for PhD application) with
 - *2021.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
 - *2021.05* Merit League Member of Shanghai Jiao Tong University (**top 8%** in SJTU)
 
-## 🔥 News
----
-- *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
-- *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026**!
-- *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
-- *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
-- *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
-- *2024.10*: 🔍 I served as a **reviewer** for **ICLR 2025**!
-- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU!
-- *2024.01*: 🎉 One paper was accepted by **JMLR**!
-
 {% include_relative pubs.md %}
 
 <span class='anchor' id='-open-source-projects'></span>
@@ -68,6 +57,17 @@ I am currently a second-year master student (preparing for PhD application) with
 - [ML4CO-Bench-101 ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social)](https://github.com/Thinklab-SJTU/ML4CO-Bench-101), a benchmark that categorizes neural combinatorial optimization (NCO) solvers by solving paradigms, model designs, and learning strategies. It evaluates applicability and generalization of different NCO approaches across a broad range of combinatorial optimization problems to uncover universal insights that can be transferred across various domains of ML4CO.
 
 - [Pygmtools ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools), a Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers, covering both learning-free solvers as well as learning-based neural graph matching solvers. Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, and is friendly to install and configure.
+
+## 🔥 News
+---
+- *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
+- *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026**!
+- *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
+- *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
+- *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
+- *2024.10*: 🔍 I served as a **reviewer** for **ICLR 2025**!
+- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU!
+- *2024.01*: 🎉 One paper was accepted by **JMLR**!
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
