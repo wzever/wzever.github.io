@@ -33,6 +33,16 @@ I am currently a second-year master student (preparing for PhD application) with
     - Language: ![ielts](https://img.shields.io/badge/IELTS-7.5-green) ![cet4](https://img.shields.io/badge/CET--6-646-green)
       ![cet6](https://img.shields.io/badge/CET--4-670-green)
 
+## 🎖 Honors and Awards
+---
+- *2025.10* National Scholarship for Graduate Student (**top 2%** nationwide)
+- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (**top 10%** in SJTU)
+- *2021-2023* (Annual) Academic Excellence Scholarship (**top 10%** in Dept.)
+- *2022.11* Huatai Securities Technology Scholarship (**40** awarded in SJTU)
+- *2021.11* SMC-Takada Scholarship (**top 5%** in Dept.) 
+- *2021.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
+- *2021.05* Merit League Member of Shanghai Jiao Tong University (**top 8%** in SJTU)
+
 ## 🔥 News
 ---
 - *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
@@ -58,16 +68,6 @@ I am currently a second-year master student (preparing for PhD application) with
 - [ML4CO-Bench-101 ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social)](https://github.com/Thinklab-SJTU/ML4CO-Bench-101), a benchmark that categorizes neural combinatorial optimization (NCO) solvers by solving paradigms, model designs, and learning strategies. It evaluates applicability and generalization of different NCO approaches across a broad range of combinatorial optimization problems to uncover universal insights that can be transferred across various domains of ML4CO.
 
 - [Pygmtools ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools), a Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers, covering both learning-free solvers as well as learning-based neural graph matching solvers. Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, and is friendly to install and configure.
-
-## 🎖 Honors and Awards
----
-- *2025.10* National Scholarship for Graduate Student (**top 2%** nationwide)
-- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (**top 10%** in SJTU)
-- *2021-2023* (Annual) Academic Excellence Scholarship (**top 10%** in Dept.)
-- *2022.11* Huatai Securities Technology Scholarship (**40** awarded in SJTU)
-- *2021.11* SMC-Takada Scholarship (**top 5%** in Dept.) 
-- *2021.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
-- *2021.05* Merit League Member of Shanghai Jiao Tong University (**top 8%** in SJTU)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
