@@ -36,6 +36,7 @@ I am currently a second-year master student (preparing for PhD application) with
 ## 🎖 Honors and Awards
 ---
 - *2025.10* National Scholarship for Graduate Student (**top 2%** nationwide)
+- *2025.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
 - *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (**top 10%** in SJTU)
 - *2021-2023* (Annual) Academic Excellence Scholarship (**top 10%** in Dept.)
 - *2022.11* Huatai Securities Technology Scholarship (**40** awarded in SJTU)
