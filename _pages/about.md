@@ -35,14 +35,15 @@ I am currently a second-year master student (preparing for PhD application) with
 
 ## 🎖 Honors and Awards
 ---
-- *2025.10* National Scholarship for Graduate Student (**top 2%** nationwide)
-- *2025.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
-- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (**top 10%** in SJTU)
-- *2021-2023* (Annual) Academic Excellence Scholarship (**top 10%** in Dept.)
-- *2022.11* Huatai Securities Technology Scholarship (**40** awarded in SJTU)
-- *2021.11* SMC-Takada Scholarship (**top 5%** in Dept.) 
-- *2021.09* Merit Student of Shanghai Jiao Tong University (**top 8%** in SJTU) 
-- *2021.05* Merit League Member of Shanghai Jiao Tong University (**top 8%** in SJTU)
+- *2025.10* National Scholarship for Graduate Student (研究生国家奖学金 **top 2%** nationwide)
+- *2025.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生（研） **top 8%** in SJTU) 
+- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学优秀毕业生（本） **top 10%** in SJTU)
+- *2021-2023* (Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金（本） **top 10%** in Dept.)
+- *2022.11* Huatai Securities Technology Scholarship (华泰证券科技奖学金 **40** awarded in SJTU)
+- *2021.11* SMC-Takada Scholarship (SMC高田奖学金 **top 5%** in Dept.) 
+- *2021.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生（本） **top 8%** in SJTU) 
+- *2021.05* Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员（本） **top 8%** in SJTU)
+- ......
 
 {% include_relative pubs.md %}
 
