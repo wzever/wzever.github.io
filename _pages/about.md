@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍💻 About Me
-I am currently a second-year master student (preparing for PhD application) with the [School of Computer Science, Shanghai Jiao Tong University (上海交通大学计算机学院)](https://www.cs.sjtu.edu.cn). I have been a member of [ReThinkLab](https://github.com/Thinklab-SJTU) since 2022 and supervised by [Prof. Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (IEEE Honors Class) of SJTU in 2024. My recent research interests include (general-purpose) neural combinatorial optimization, generative models (esp. for discrete optimization), and broader fields of machine learning on graphs.
+I am currently a second-year master student (preparing for PhD application) with the [School of Computer Science, Shanghai Jiao Tong University (上海交通大学计算机学院)](https://www.cs.sjtu.edu.cn). I have been a member of [ReThinkLab](https://github.com/Thinklab-SJTU) since 2022 and supervised by [Prof. Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (IEEE Honors Class) of SJTU in 2024. My recent research interests include learning to solve complex discrete optimization problems (esp. neural combinatorial optimization), generative models, machine learning on graphs, and broader fields towards large decision-making models and scientific intelligence.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 ## 📖 Educations
 ---
-- *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree)
+- *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree while preparing for PhD application)
     - Overall: ![gpa](https://img.shields.io/badge/GPA-3.91-blue)
     - Courses: ![course-above-a-](https://img.shields.io/badge/Above_A--_-10/10-orange)  ![course-above-a](https://img.shields.io/badge/Above_A-7/10-orange)
 - *2020.09 - 2024.06*, Department of Computer Science and Engineering (IEEE Honors Class), SJTU (B.E. Degree obtained)
