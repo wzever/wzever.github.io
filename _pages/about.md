@@ -25,7 +25,7 @@ I am currently a second-year master student (preparing for PhD application) with
 ## 📖 Educations
 ---
 - *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree while preparing for PhD application)
-    - Overall: ![gpa](https://img.shields.io/badge/GPA-3.91-blue)
+    - Overall: ![gpa](https://img.shields.io/badge/GPA-3.91-blue) ![rank](https://img.shields.io/badge/Ranking-top_8%25_(17/223)-blue)
     - Courses: ![course-above-a-](https://img.shields.io/badge/Above_A--_-10/10-orange)  ![course-above-a](https://img.shields.io/badge/Above_A-7/10-orange)
 - *2020.09 - 2024.06*, Department of Computer Science and Engineering (IEEE Honors Class), SJTU (B.E. Degree obtained)
     - Overall: ![gpa](https://img.shields.io/badge/GPA-3.92-blue) ![grade](https://img.shields.io/badge/Grade-90.82-blue) ![rank](https://img.shields.io/badge/Ranking-top_10%25-blue)
