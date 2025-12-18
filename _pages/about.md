@@ -63,7 +63,7 @@ I am currently a second-year master student (preparing for PhD application) with
 ## 🔥 News
 ---
 - *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
-- *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026**!
+- *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026** and **AAMAS 2026**!
 - *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
 - *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
 - *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
