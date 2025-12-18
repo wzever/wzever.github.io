@@ -35,6 +35,7 @@ I am currently a second-year master student (preparing for PhD application) with
 
 ## 🎖 Honors and Awards
 ---
+- *2025.11* First-class Academic Scholarship of SJTU (研究生学业一等奖学金 **top 10%** in Dept.)
 - *2025.10* National Scholarship for Graduate Student (研究生国家奖学金 **top 2%** nationwide)
 - *2025.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
 - *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学优秀毕业生 **top 10%** in SJTU)
