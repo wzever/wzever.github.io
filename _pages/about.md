@@ -44,7 +44,6 @@ I am currently a second-year master student (preparing for PhD application) with
 - *2021.11* SMC-Takada Scholarship (SMC高田奖学金 **top 5%** in Dept.) 
 - *2021.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
 - *2021.05* Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 **top 8%** in SJTU)
-- ......
 
 {% include_relative pubs.md %}
 
@@ -63,6 +62,7 @@ I am currently a second-year master student (preparing for PhD application) with
 
 ## 🔥 News
 ---
+- *2026.2*: 🔍 I served as a **reviewer** for **ICML 2026** (among the qualified **2%** Undergraduate/Master's student reviewers)!
 - *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
 - *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026** and **AAMAS 2026**!
 - *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
