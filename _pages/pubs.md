@@ -1,5 +1,20 @@
-## 📝 Publications 
+## 📝 Selected Publications 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/M2GenCO_pipeline.png' alt="m2genco" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+(**CCF-A**) [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretrain and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
+
+**Wenzheng Pan**, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan
+
+
+- A new meta-learning view for CO: M²GenCO conceptualizes a task as a COP type and its data distribution, enabling cross-problem pretraining beyond instance-wise optimization.
+- Meta-diffusion for transferable generation: it couples diffusion-based generative modeling, which fits task-specific solution distributions, with multi-task meta-learning, which improves few-shot OOD adaptation.
+- Systematic distribution-level benchmarks: it introduces support/query splits over 5 graph-based COPs and diverse distributions/scales, moving NCO evaluation beyond uniform-instance testing.
+- Strong accuracy-efficiency trade-off: experiments show state-of-the-art performance across tasks while reducing inference time and training cost compared with mainstream generative CO methods.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='https://wzever.github.io/_pages/images/ml4co_bench_101.png' alt="ml4co_bench_101" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
