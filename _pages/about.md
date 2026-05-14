@@ -47,7 +47,7 @@ I am currently a second-year master student (preparing for PhD application) with
 
 ## 🔥 News
 ---
-- *2026.05*: 🎉 Two papers were accepted by **ICML 2026**!
+- *2026.05*: 🎉 Two papers were accepted by **ICML 2026** and I was awarded the **Gold Reviewer**!
 - *2026.02*: 🔍 I served as a **reviewer** for **ICML 2026** (among the qualified **2%** Undergraduate/Master's student reviewers)!
 - *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
 - *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026** and **AAMAS 2026**!
