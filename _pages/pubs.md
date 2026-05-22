@@ -21,7 +21,7 @@ for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=
 Jiale Ma, **Wenzheng Pan**, Yang Li, Junchi Yan
 
 
-In this paper, we establish a modular and streamlined framework benchmarking prevalent neural CO methods, dissecting their design choices via a tri-leveled “paradigm-model-learning” taxonomy to better characterize different approaches. Further, we integrate their shared features and respective strengths to form 3 unified solvers representing global prediction (GP), local construction (LC), and adaptive expansion (AE) mannered neural solvers. We also collate a total of 34 datasets for 7 mainstream CO problems (including both edge-oriented tasks: TSP, ATSP, CVRP, as well as node-oriented: MIS, MCl, MVC, MCut) across scales to facilitate more comparable results among literature.
+We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluation framework that systematically categorizes, reproduces, and compares neural solvers across seven mainstream graph-based combinatorial optimization problems.
 </div>
 </div>
 
@@ -33,9 +33,7 @@ In this paper, we establish a modular and streamlined framework benchmarking pre
 Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 
-- We propose a novel paradigm Adaptive Expansion (AE) and the COExpander solver for NCO solving. It bridges the global prediction (GP) and local construction (LC) paradigms via a partial state prompted heatmap generator with adaptive step sizes for decision-making.
-- We re-wrap 5 non-learning baseline solvers and re-cononicalize 29 standard datasets to provide a standard benchmark for 6 commonly studied COPs.
-- Compared with previous neural SOTA, COExpander has reduced the average optimality drop on 6 COPs from 3.81% to 0.66%, with a speedup of 4.0x.
+We introduce **COExpander**, an adaptive expansion paradigm that bridges global prediction and local construction by progressively determining decision variables with dynamically controlled step sizes for scalable combinatorial optimization.
 </div>
 </div>
 
@@ -47,10 +45,7 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 **Wenzheng Pan**\*, Hao Xiong\*, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan
 
-- We propose the UniCO framework to unify a set of CO problems by reducing them into the general TSP form for effective and simultaneous training.
-- This work focuses on the challenging TSPs that are non-metric, asymmetric or discrete distances without explicit node coordinates.
-- Two neural TSP solvers are devised w/ and w/o supervision to conquer such matrix input, respectively: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, a Diffusion-based generative model with the mix-noised reference mapping scheme.
-- Pioneering experiments have been conducted on ATSP, 2DTSP, HCP- and SAT-distributed general matrix-encoded TSPs.
+We propose **UniCO**, a unified neural combinatorial optimization framework that reduces diverse COPs into matrix-encoded general TSP and solves them with tailored matrix-based RL and diffusion solvers: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, a Diffusion-based generative model with the mix-noised reference mapping scheme.
 </div>
 </div>
 
@@ -61,9 +56,7 @@ Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
 Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan
 
-- ML4TSPBench advances a unified modular streamline incorporating existing technologies in both learning and search for transparent ablation.
-- The desired principles are joint probability estimation, symmetry solution representation, and online optimization, for ML4TSP solver design.
-- The strategic decoupling and organic recompositions yield a factory of new and stronger TSP solvers.
+We present **ML4TSPBench**, a modular framework that decomposes learning-based TSP solvers into reusable learning and search components, revealing key design principles for stronger and more principled ML4CO methods.
 </div>
 </div>
 
@@ -75,7 +68,6 @@ Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Jun
 Runzhong Wang, Ziao Guo, **Wenzheng Pan**, Jiale Ma, Yikai Zhang, Nan Yang, Qi Liu, Longxuan Wei, Hanxue Zhang, Chang Liu, Zetian Jiang, Xiaokang Yang, Junchi Yan
 
 
-- Pygmtools is released as a Python graph matching toolkit that implements a comprehensive collection of two-graph and multi-graph matching solvers.
-- Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, with friendly guidance.
+We release **Pygmtools**, an open-source Python toolkit that unifies classical, multi-graph, and learning-based graph matching solvers across multiple numerical backends for research and practical applications.
 </div>
 </div>
