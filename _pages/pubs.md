@@ -12,6 +12,17 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/ml4lp.png' alt="ml4lp" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+(**CCF-A**) [**Design Linear Constrained Neural Layers with Implicit Convex Optimization**](https://openreview.net/forum?id=LHCQSx0cQV) [[PDF](https://openreview.net/pdf?id=LHCQSx0cQV)]
+
+Junchi Yan, Jiaxi Liu, Liangliang Shi, Fangyuan Zhou, **Wenzhen Pan**, Zhongteng Gui, Yihui Tu
+
+We propose **LinConLayer**, a plug-in differentiable neural layer that enforces general linear constraints via implicit convex optimization, yielding efficient BLCLayer and GLCLayer variants for constrained prediction in tasks such as graph matching, portfolio allocation, and linear programming.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='https://wzever.github.io/_pages/images/ml4co_bench_101.png' alt="ml4co_bench_101" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
