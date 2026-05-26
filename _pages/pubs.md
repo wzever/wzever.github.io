@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/M2GenCO_pipeline.png' alt="m2genco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretrain and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
+(**CCF-A**) [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
 
 **Wenzheng Pan**, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan
 
