@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍💻 About Me
-I am currently a second-year master student with the [School of Computer Science, Shanghai Jiao Tong University (上海交通大学计算机学院)](https://www.cs.sjtu.edu.cn). I have been a member of [ReThinkLab](https://github.com/Thinklab-SJTU) since 2022 and supervised by [Prof. Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (IEEE Honors Class, provincial top 80 in College Entrance Exam) of SJTU in 2024. My recent research interests include learning to solve complex discrete optimization problems (esp. neural combinatorial optimization), generative models, machine learning on graphs, and broader fields towards large decision-making models and scientific intelligence. Recently, I have been admitted to [Shanghai Innovation Institute (上海创智学院)](https://www.sii.edu.cn), where I'm planning to start my Ph.D. study in 2027.
+I am currently a second-year master student with the [School of Computer Science, Shanghai Jiao Tong University (上海交通大学计算机学院)](https://www.cs.sjtu.edu.cn). I have been a member of [ReThinkLab](https://github.com/Thinklab-SJTU) since 2022 and supervised by [Prof. Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (IEEE Honors Class, subject to a provincial top 0.01% grade in the College Entrance Exam) of SJTU in 2024. My recent research interests include learning to solve complex discrete optimization problems (esp. neural combinatorial optimization), generative models, machine learning on graphs, and broader fields towards large decision-making models and scientific intelligence. Recently, I have been admitted to [Shanghai Innovation Institute (上海创智学院)](https://www.sii.edu.cn), where I'm planning to start my Ph.D. study in 2027.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -47,6 +47,7 @@ I am currently a second-year master student with the [School of Computer Science
 
 ## 🔥 News
 ---
+- *2026.06*: 🎉 I received a conditional offer from **SII** as a Ph.D. student for 2027 (**national admission rate <5%**)!
 - *2026.05*: 🎉 Two papers were accepted by **ICML 2026** and I was awarded the **Gold Reviewer**!
 - *2026.02*: 🔍 I served as a **reviewer** for **ICML 2026** (among the qualified **2%** Undergraduate/Master's student reviewers)!
 - *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
