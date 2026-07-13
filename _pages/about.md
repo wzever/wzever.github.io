@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍💻 About Me
-I am currently a second-year master student with the [School of Computer Science, Shanghai Jiao Tong University (上海交通大学计算机学院)](https://www.cs.sjtu.edu.cn). I have been a member of [ReThinkLab](https://github.com/Thinklab-SJTU) since 2022 and supervised by [Prof. Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (IEEE Honors Class, subject to a provincial top 0.01% grade in the College Entrance Exam) of SJTU in 2024. My recent research interests include learning to solve complex discrete optimization problems (esp. neural combinatorial optimization), generative models, machine learning on graphs, and broader fields towards large decision-making models and scientific intelligence. Recently, I have been admitted to [Shanghai Innovation Institute (上海创智学院)](https://www.sii.edu.cn), where I'm planning to start my Ph.D. study in 2027.
+I am currently a second-year master student with the [School of Computer Science, **Shanghai Jiao Tong University (上海交通大学计算机学院)**](https://www.cs.sjtu.edu.cn). I have been a member of [**ReThinkLab**](https://github.com/Thinklab-SJTU) since 2022 and supervised by [**Prof. Junchi Yan (严骏驰)**](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (**IEEE Honors Class**, subject to a provincial top 0.01% grade in the College Entrance Exam) of SJTU in 2024. Recently, I have been admitted to [**Shanghai Innovation Institute (上海创智学院)**](https://www.sii.edu.cn), where I'm planning to start my Ph.D. study in 2027.
+
+My research interests include learning to solve complex discrete optimization problems (esp. **neural combinatorial optimization**), generative models, machine learning on graphs, and broader fields towards large decision-making models and scientific intelligence. **More recently, I've also started to explore the intersection of large language models (LLMs) as well as agentic systems with my major research directions. I am also actively seeking internship opportunities.**
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -32,18 +34,6 @@ I am currently a second-year master student with the [School of Computer Science
     - Courses: ![course-above-a-](https://img.shields.io/badge/Above_A--_-53/61-orange)  ![course-above-a](https://img.shields.io/badge/Above_A-38/61-orange)
     - Language: ![ielts](https://img.shields.io/badge/IELTS-7.5-green) ![cet4](https://img.shields.io/badge/CET--6-646-green)
       ![cet6](https://img.shields.io/badge/CET--4-670-green)
-
-## 🎖 Honors and Awards
----
-- *2025.11* First-class Academic Scholarship of SJTU (研究生学业一等奖学金 **top 10%** in Dept.)
-- *2025.10* National Scholarship for Graduate Student (研究生国家奖学金 **top 2%** nationwide)
-- *2025.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
-- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学优秀毕业生 **top 10%** in SJTU)
-- *2021-2023* (Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 **top 10%** in Dept.)
-- *2022.11* Huatai Securities Technology Scholarship (华泰证券科技奖学金 **40** awarded in SJTU)
-- *2021.11* SMC-Takada Scholarship (SMC高田奖学金 **top 5%** in Dept.) 
-- *2021.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
-- *2021.05* Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 **top 8%** in SJTU)
 
 ## 🔥 News
 ---
@@ -73,6 +63,18 @@ I am currently a second-year master student with the [School of Computer Science
 - [ML4CO-Bench-101 ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social)](https://github.com/Thinklab-SJTU/ML4CO-Bench-101), a benchmark that categorizes neural combinatorial optimization (NCO) solvers by solving paradigms, model designs, and learning strategies. It evaluates applicability and generalization of different NCO approaches across a broad range of combinatorial optimization problems to uncover universal insights that can be transferred across various domains of ML4CO.
 
 - [Pygmtools ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools), a Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers, covering both learning-free solvers as well as learning-based neural graph matching solvers. Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, and is friendly to install and configure.
+
+## 🎖 Honors and Awards
+---
+- *2025.11* First-class Academic Scholarship of SJTU (研究生学业一等奖学金 **top 10%** in Dept.)
+- *2025.10* National Scholarship for Graduate Student (研究生国家奖学金 **top 2%** nationwide)
+- *2025.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
+- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学优秀毕业生 **top 10%** in SJTU)
+- *2021-2023* (Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 **top 10%** in Dept.)
+- *2022.11* Huatai Securities Technology Scholarship (华泰证券科技奖学金 **40** awarded in SJTU)
+- *2021.11* SMC-Takada Scholarship (SMC高田奖学金 **top 5%** in Dept.) 
+- *2021.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
+- *2021.05* Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 **top 8%** in SJTU)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
