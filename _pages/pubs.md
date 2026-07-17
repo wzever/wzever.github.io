@@ -3,9 +3,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/M2GenCO_pipeline.png' alt="m2genco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(<span style="color:red;">**CCF-A**</span>) [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
+<span style="color:red;">(**CCF-A**)</span> [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
 
-<u>**Wenzheng Pan**</u>, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan
+<span style="text-decoration: underline;">**Wenzheng Pan**</span>, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan
 
 
 We introduce **M²GenCO**, a meta-generative framework that treats problem distributions as tasks to enable efficient multi-task pretraining, few-shot adaptation, and robust generalization across graph-based combinatorial optimization problems. 
@@ -15,7 +15,7 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/ml4lp.png' alt="ml4lp" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**Design Linear Constrained Neural Layers with Implicit Convex Optimization**](https://openreview.net/forum?id=LHCQSx0cQV) [[PDF](https://openreview.net/pdf?id=LHCQSx0cQV)]
+<span style="color:red;">(**CCF-A**)</span> [**Design Linear Constrained Neural Layers with Implicit Convex Optimization**](https://openreview.net/forum?id=LHCQSx0cQV) [[PDF](https://openreview.net/pdf?id=LHCQSx0cQV)]
 
 Junchi Yan, Jiaxi Liu, Yihui Tu, Fangyuan Zhou, **Wenzhen Pan**, Zhongteng Gui, Liangliang Shi
 
@@ -26,7 +26,7 @@ We propose **LinConLayer**, a plug-in differentiable neural layer that enforces 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='https://wzever.github.io/_pages/images/ml4co_bench_101.png' alt="ml4co_bench_101" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**ML4CO-Bench-101: Benchmark Machine Learning
+<span style="color:red;">(**CCF-A**)</span> [**ML4CO-Bench-101: Benchmark Machine Learning
 for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=ye4ntB1Kzi) [[PDF](https://openreview.net/pdf?id=ye4ntB1Kzi)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social)](https://github.com/Thinklab-SJTU/ML4CO-Bench-101)]
 
 Jiale Ma, **Wenzheng Pan**, Yang Li, Junchi Yan
@@ -39,7 +39,7 @@ We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='https://wzever.github.io/_pages/images/coexpander.png' alt="coexpander" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**COExpander: Adaptive Solution Expansion for Combinatorial Optimization**](https://openreview.net/forum?id=KMaBXMWsBM) [[PDF](https://openreview.net/pdf?id=KMaBXMWsBM)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/COExpander?style=social)](https://github.com/Thinklab-SJTU/COExpander)]
+<span style="color:red;">(**CCF-A**)</span> [**COExpander: Adaptive Solution Expansion for Combinatorial Optimization**](https://openreview.net/forum?id=KMaBXMWsBM) [[PDF](https://openreview.net/pdf?id=KMaBXMWsBM)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/COExpander?style=social)](https://github.com/Thinklab-SJTU/COExpander)]
 
 Jiale Ma\*, **Wenzheng Pan***, Yang Li, Junchi Yan
 
@@ -52,7 +52,7 @@ We introduce **COExpander**, an adaptive expansion paradigm that bridges global 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://wzever.github.io/_pages/images/unico.png' alt="unico" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP**](https://openreview.net/forum?id=yEwakMNIex) [[PDF](https://openreview.net/pdf?id=yEwakMNIex)] [[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/UniCO?style=social)](https://github.com/Thinklab-SJTU/UniCO)]
+<span style="color:red;">(**CCF-A**)</span> [**UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP**](https://openreview.net/forum?id=yEwakMNIex) [[PDF](https://openreview.net/pdf?id=yEwakMNIex)] [[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/UniCO?style=social)](https://github.com/Thinklab-SJTU/UniCO)]
 
 **Wenzheng Pan**\*, Hao Xiong\*, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan
 
@@ -63,7 +63,7 @@ We propose **UniCO**, a unified neural combinatorial optimization framework that
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://wzever.github.io/_pages/images/UnifyML4TSP.png' alt="ml4tsp-bench" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search**](https://openreview.net/forum?id=grU1VKEOLi) [[PDF](https://openreview.net/pdf?id=grU1VKEOLi)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4TSPBench?style=social)](https://github.com/Thinklab-SJTU/ML4TSPBench)]
+<span style="color:red;">(**CCF-A**)</span> [**Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search**](https://openreview.net/forum?id=grU1VKEOLi) [[PDF](https://openreview.net/pdf?id=grU1VKEOLi)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4TSPBench?style=social)](https://github.com/Thinklab-SJTU/ML4TSPBench)]
 
 Yang Li, Jiale Ma, **Wenzheng Pan**, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan
 
@@ -74,7 +74,7 @@ We present **ML4TSPBench**, a modular framework that decomposes learning-based T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMLR 2024</div><img src='https://wzever.github.io/_pages/images/pygmtools.png' alt="pygmtools" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**Pygmtools: A Python Graph Matching Toolkit**](https://jmlr.org/papers/v25/23-0572.html) [[PDF](https://jmlr.org/papers/volume25/23-0572/23-0572.pdf)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools)]
+<span style="color:red;">(**CCF-A**)</span> [**Pygmtools: A Python Graph Matching Toolkit**](https://jmlr.org/papers/v25/23-0572.html) [[PDF](https://jmlr.org/papers/volume25/23-0572/23-0572.pdf)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools)]
 
 Runzhong Wang, Ziao Guo, **Wenzheng Pan**, Jiale Ma, Yikai Zhang, Nan Yang, Qi Liu, Longxuan Wei, Hanxue Zhang, Chang Liu, Zetian Jiang, Xiaokang Yang, Junchi Yan
 
