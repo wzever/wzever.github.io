@@ -3,9 +3,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/M2GenCO_pipeline.png' alt="m2genco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(**CCF-A**) [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
+(<span style="color:red;">**CCF-A**</span>) [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
 
-**Wenzheng Pan**, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan
+<u>**Wenzheng Pan**</u>, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan
 
 
 We introduce **M²GenCO**, a meta-generative framework that treats problem distributions as tasks to enable efficient multi-task pretraining, few-shot adaptation, and robust generalization across graph-based combinatorial optimization problems. 
@@ -17,7 +17,7 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 
 (**CCF-A**) [**Design Linear Constrained Neural Layers with Implicit Convex Optimization**](https://openreview.net/forum?id=LHCQSx0cQV) [[PDF](https://openreview.net/pdf?id=LHCQSx0cQV)]
 
-Junchi Yan, Jiaxi Liu, Liangliang Shi, Fangyuan Zhou, **Wenzhen Pan**, Zhongteng Gui, Yihui Tu
+Junchi Yan, Jiaxi Liu, Yihui Tu, Fangyuan Zhou, **Wenzhen Pan**, Zhongteng Gui, Liangliang Shi
 
 We propose **LinConLayer**, a plug-in differentiable neural layer that enforces general linear constraints via implicit convex optimization, yielding efficient BLCLayer and GLCLayer variants for constrained prediction in tasks such as graph matching, portfolio allocation, and linear programming.
 </div>
@@ -71,7 +71,7 @@ We present **ML4TSPBench**, a modular framework that decomposes learning-based T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMLR </div><img src='https://wzever.github.io/_pages/images/pygmtools.png' alt="pygmtools" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMLR 2024</div><img src='https://wzever.github.io/_pages/images/pygmtools.png' alt="pygmtools" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (**CCF-A**) [**Pygmtools: A Python Graph Matching Toolkit**](https://jmlr.org/papers/v25/23-0572.html) [[PDF](https://jmlr.org/papers/volume25/23-0572/23-0572.pdf)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools)]
