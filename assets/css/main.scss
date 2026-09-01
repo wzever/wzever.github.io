@@ -107,3 +107,243 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Personal academic homepage refinements */
+:root {
+    --ink: #263449;
+    --heading: #172b4d;
+    --muted: #64748b;
+    --line: #dbe3ec;
+    --surface: #ffffff;
+    --accent: #1f4f7a;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: var(--ink);
+    background: #f5f7fb;
+}
+
+#main {
+    margin-top: 2.25rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.masthead {
+    background: rgba(255, 255, 255, 0.96);
+    border-bottom: 1px solid var(--line);
+    box-shadow: 0 2px 14px rgba(23, 43, 77, 0.06);
+    backdrop-filter: blur(10px);
+}
+
+.masthead__inner-wrap {
+    padding: 0.35rem 1rem;
+}
+
+.masthead__menu-item a {
+    color: var(--muted);
+    font-size: 0.88rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.masthead__menu-item--lg a {
+    color: var(--heading);
+    font-size: 0.98rem;
+}
+
+.greedy-nav .visible-links a:before {
+    height: 2px;
+    background: var(--accent);
+}
+
+.greedy-nav .visible-links a:hover,
+.greedy-nav .visible-links a:focus {
+    color: var(--accent);
+}
+
+.greedy-nav button {
+    background: var(--accent);
+}
+
+.page__content {
+    max-width: 920px;
+}
+
+.page__content h1 {
+    margin-top: 2.6rem;
+    padding-bottom: 0.65rem;
+    color: var(--heading);
+    font-size: 1.75rem;
+    letter-spacing: 0;
+    border-bottom: 1px solid var(--line);
+    position: relative;
+}
+
+.page__content h1:first-of-type {
+    margin-top: 0;
+}
+
+.page__content h1:after {
+    content: "";
+    display: block;
+    width: 3rem;
+    height: 3px;
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    background: var(--accent);
+}
+
+.page__content h2 {
+    margin-top: 2.25rem;
+    color: var(--heading);
+    font-size: 1.2rem;
+    letter-spacing: 0;
+}
+
+.page__content p,
+.page__content li {
+    color: var(--ink);
+    line-height: 1.72;
+}
+
+.page__content a {
+    color: var(--accent);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+.page__content a:hover {
+    color: #0f766e;
+}
+
+.page__content hr {
+    margin: 1.5rem 0;
+    border-top-color: var(--line);
+}
+
+.sidebar {
+    padding: 1.15rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(23, 43, 77, 0.06);
+}
+
+.sidebar .author__name {
+    color: var(--heading);
+    letter-spacing: 0;
+}
+
+.sidebar .author__bio,
+.sidebar .author__urls li {
+    color: var(--muted);
+}
+
+.sidebar .author__urls a {
+    color: var(--accent);
+}
+
+.author__avatar img {
+    border-color: var(--line);
+    box-shadow: 0 4px 12px rgba(23, 43, 77, 0.1);
+}
+
+.paper-box {
+    align-items: stretch;
+    margin: 1.35rem 0;
+    padding: 1.1rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 5px 16px rgba(23, 43, 77, 0.045);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.paper-box:hover {
+    border-color: #b8cbd9;
+    box-shadow: 0 10px 24px rgba(23, 43, 77, 0.1);
+    transform: translateY(-2px);
+}
+
+.paper-box .paper-box-image img {
+    width: 100%;
+    max-width: 360px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+.paper-box .paper-box-text {
+    line-height: 1.58;
+}
+
+.paper-box .paper-box-text p:first-of-type {
+    margin-top: 0;
+}
+
+.badge {
+    margin-top: 0.65rem;
+    margin-left: -0.35rem;
+    padding: 0.2rem 0.6rem;
+    color: #fff;
+    background: var(--accent);
+    border-radius: 0 3px 3px 0;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+}
+
+img[alt="gpa"],
+img[alt="rank"],
+img[alt="grade"],
+img[alt="course-above-a-"],
+img[alt="course-above-a"],
+img[alt="ielts"],
+img[alt="cet4"],
+img[alt="cet6"] {
+    border-radius: 999px;
+}
+
+@media (max-width: 925px) {
+    #main {
+        margin-top: 1.25rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .sidebar {
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .masthead__inner-wrap {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+
+    .paper-box {
+        padding: 0.85rem;
+    }
+
+    .paper-box .paper-box-image img {
+        max-width: 100%;
+    }
+
+    .paper-box .paper-box-text {
+        padding-top: 0.85rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *, *:before, *:after {
+        scroll-behavior: auto !important;
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+    }
+}
