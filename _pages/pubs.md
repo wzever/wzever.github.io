@@ -1,5 +1,19 @@
 ## 📝 Selected Publications 
 ---
+<div class="publication-overview" aria-label="Publication statistics">
+<div class="publication-stats">
+<div class="publication-stat"><span class="publication-stat-value">7</span><span class="publication-stat-label">Total</span></div>
+<div class="publication-stat"><span class="publication-stat-value">7</span><span class="publication-stat-label">CCF-A</span></div>
+<div class="publication-stat"><span class="publication-stat-value">3</span><span class="publication-stat-label">(Co-)First</span></div>
+</div>
+<div class="publication-tags" aria-label="Publication venues">
+<span class="publication-tag publication-tag--icml"><span>ICML</span><strong>3</strong></span>
+<span class="publication-tag publication-tag--iclr"><span>ICLR</span><strong>2</strong></span>
+<span class="publication-tag publication-tag--jmlr"><span>JMLR</span><strong>1</strong></span>
+<span class="publication-tag publication-tag--neurips"><span>NeurIPS</span><strong>1</strong></span>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/M2GenCO_pipeline.png' alt="m2genco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 

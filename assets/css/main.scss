@@ -255,7 +255,7 @@ body {
 }
 
 .paper-box {
-    align-items: stretch;
+    align-items: center;
     margin: 1.35rem 0;
     padding: 1.1rem;
     background: var(--surface);
@@ -278,6 +278,13 @@ body {
     box-shadow: none;
 }
 
+.paper-box .paper-box-image > div {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
 .paper-box .paper-box-text {
     line-height: 1.58;
 }
@@ -287,8 +294,9 @@ body {
 }
 
 .badge {
-    margin-top: 0.65rem;
-    margin-left: -0.35rem;
+    top: 0;
+    left: 0;
+    margin: 0;
     padding: 0.2rem 0.6rem;
     color: #fff;
     background: var(--accent);
@@ -296,6 +304,90 @@ body {
     font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0.04em;
+}
+
+.publication-overview {
+    margin: 1.15rem 0 1.75rem;
+}
+
+.publication-stats,
+.publication-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+    align-items: stretch;
+}
+
+.publication-stat {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.45rem;
+    min-width: 7.2rem;
+    padding: 0.65rem 0.9rem;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(23, 43, 77, 0.04);
+}
+
+.publication-stat-value {
+    color: var(--heading);
+    font-size: 1.35rem;
+    font-weight: 750;
+    line-height: 1;
+}
+
+.publication-stat-label {
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 650;
+    letter-spacing: 0.035em;
+    text-transform: uppercase;
+}
+
+.publication-tags {
+    margin-top: 0.8rem;
+    gap: 0.65rem;
+}
+
+.publication-tag {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    min-width: 7.5rem;
+    padding: 0.55rem 0.85rem 0.55rem 0.95rem;
+    color: #4b5563;
+    background: #f8f7f2;
+    border: 1px solid #d9dde5;
+    border-left: 5px solid var(--tag-color);
+    border-radius: 7px;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 1;
+}
+
+.publication-tag strong {
+    color: #374151;
+    font-size: 1.15rem;
+    font-weight: 800;
+}
+
+.publication-tag--icml {
+    --tag-color: #198f83;
+}
+
+.publication-tag--iclr {
+    --tag-color: #6657e8;
+}
+
+.publication-tag--jmlr {
+    --tag-color: #7863b0;
+}
+
+.publication-tag--neurips {
+    --tag-color: #ef634d;
 }
 
 img[alt="gpa"],
@@ -337,6 +429,14 @@ img[alt="cet6"] {
 
     .paper-box .paper-box-text {
         padding-top: 0.85rem;
+    }
+
+    .publication-stat {
+        flex: 1 1 8rem;
+    }
+
+    .publication-tag {
+        flex: 1 1 7.5rem;
     }
 }
 
