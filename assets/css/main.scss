@@ -202,7 +202,7 @@ body {
 .page__content h2 {
     margin-top: 2.25rem;
     color: var(--heading);
-    font-size: 1.2rem;
+    font-size: 1.75rem;
     letter-spacing: 0;
 }
 
@@ -255,6 +255,7 @@ body {
 }
 
 .paper-box {
+    position: relative;
     align-items: center;
     margin: 1.35rem 0;
     padding: 1.1rem;
@@ -312,8 +313,8 @@ body {
 }
 
 .badge {
-    top: 0;
-    left: 0;
+    top: 0.8rem;
+    left: 0.9rem;
     margin: 0;
     padding: 0.2rem 0.6rem;
     color: #fff;
@@ -336,12 +337,16 @@ body {
     align-items: stretch;
 }
 
+.page__content .publication-stats {
+    gap: 0.5rem;
+}
+
 .page__content .publication-stat {
     display: inline-flex;
     align-items: baseline;
     gap: 0.45rem;
-    min-width: 7.2rem;
-    padding: 0.65rem 0.9rem;
+    min-width: 6.1rem;
+    padding: 0.5rem 0.65rem;
     background: #fff;
     border: 1px solid var(--line);
     border-radius: 6px;
@@ -350,22 +355,22 @@ body {
 
 .page__content .publication-stat-value {
     color: var(--heading);
-    font-size: 1.35rem;
+    font-size: 1.05rem;
     font-weight: 750;
     line-height: 1;
 }
 
 .page__content .publication-stat-label {
     color: var(--muted);
-    font-size: 0.78rem;
+    font-size: 0.68rem;
     font-weight: 650;
     letter-spacing: 0.035em;
     text-transform: uppercase;
 }
 
 .page__content .publication-tags {
-    margin-top: 0.8rem;
-    gap: 0.65rem;
+    margin-top: 0;
+    gap: 0.5rem;
 }
 
 .page__content .publication-tag {
@@ -373,14 +378,14 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 0.75rem;
-    min-width: 7.5rem;
-    padding: 0.55rem 0.85rem 0.55rem 0.95rem;
+    min-width: 6.6rem;
+    padding: 0.48rem 0.65rem 0.48rem 0.75rem;
     color: #4b5563;
     background: #f8f7f2;
     border: 1px solid #d9dde5;
     border-left: 5px solid var(--tag-color);
     border-radius: 7px;
-    font-size: 1rem;
+    font-size: 0.82rem;
     font-weight: 700;
     letter-spacing: 0.04em;
     line-height: 1;
@@ -388,7 +393,7 @@ body {
 
 .page__content .publication-tag strong {
     color: #374151;
-    font-size: 1.15rem;
+    font-size: 0.95rem;
     font-weight: 800;
 }
 
@@ -402,6 +407,10 @@ body {
 
 .page__content .publication-tag--jmlr {
     --tag-color: #7863b0;
+}
+
+.page__content .publication-tag--other {
+    --tag-color: #94a3b8;
 }
 
 .page__content .publication-tag--neurips {
@@ -455,11 +464,11 @@ img[alt="cet6"] {
     }
 
     .page__content .publication-stat {
-        flex: 1 1 8rem;
+        flex: 1 1 6.5rem;
     }
 
     .page__content .publication-tag {
-        flex: 1 1 7.5rem;
+        flex: 1 1 6.5rem;
     }
 }
 
