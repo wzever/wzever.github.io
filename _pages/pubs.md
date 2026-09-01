@@ -1,17 +1,57 @@
 ## 📝 Selected Publications 
 ---
 <div class="publication-overview" aria-label="Publication statistics">
+
+<style>
+.publication-overview { margin: 1.15rem 0 1.75rem; }
+.publication-stats, .publication-tags { display: flex; flex-wrap: wrap; gap: .7rem; align-items: stretch; }
+.publication-stat { display: inline-flex; align-items: baseline; gap: .45rem; min-width: 7.2rem; padding: .65rem .9rem; background: #fff; border: 1px solid #dbe3ec; border-radius: 6px; box-shadow: 0 3px 10px rgba(23,43,77,.04); }
+.publication-stat-value { color: #172b4d; font-size: 1.35rem; font-weight: 700; line-height: 1; }
+.publication-stat-label { color: #64748b; font-size: .78rem; font-weight: 600; letter-spacing: .035em; text-transform: uppercase; }
+.publication-tags { margin-top: .8rem; gap: .65rem; }
+.publication-tag { display: inline-flex; align-items: center; justify-content: space-between; gap: .75rem; min-width: 7.5rem; padding: .55rem .85rem .55rem .95rem; color: #4b5563; background: #f8f7f2; border: 1px solid #d9dde5; border-left: 5px solid var(--tag-color); border-radius: 7px; font-size: 1rem; font-weight: 700; letter-spacing: .04em; line-height: 1; }
+.publication-tag strong { color: #374151; font-size: 1.15rem; font-weight: 800; }
+.publication-tag--icml { --tag-color: #198f83; }
+.publication-tag--iclr { --tag-color: #6657e8; }
+.publication-tag--jmlr { --tag-color: #7863b0; }
+.publication-tag--neurips { --tag-color: #ef634d; }
+@media (max-width: 767px) { .publication-stat, .publication-tag { flex: 1 1 7.5rem; } }
+@media (min-width: 768px) {
+  .paper-box { align-items: center; }
+  .paper-box .paper-box-image { align-self: center; display: flex; align-items: center; margin-top: auto; margin-bottom: auto; }
+  .paper-box .paper-box-image > div { position: relative; display: flex; align-items: center; justify-content: center; width: 100%; }
+  .paper-box .paper-box-image img { align-self: center; }
+}
+</style>
+
 <div class="publication-stats">
-<div class="publication-stat"><span class="publication-stat-value">7</span><span class="publication-stat-label">Total</span></div>
-<div class="publication-stat"><span class="publication-stat-value">7</span><span class="publication-stat-label">CCF-A</span></div>
-<div class="publication-stat"><span class="publication-stat-value">3</span><span class="publication-stat-label">(Co-)First</span></div>
+
+<div class="publication-stat">
+<span class="publication-stat-value">7</span>
+<span class="publication-stat-label">Total</span>
 </div>
+
+<div class="publication-stat">
+<span class="publication-stat-value">7</span>
+<span class="publication-stat-label">CCF-A</span>
+</div>
+
+<div class="publication-stat">
+<span class="publication-stat-value">3</span>
+<span class="publication-stat-label">(Co-)First</span>
+</div>
+
+</div>
+
 <div class="publication-tags" aria-label="Publication venues">
+
 <span class="publication-tag publication-tag--icml"><span>ICML</span><strong>3</strong></span>
 <span class="publication-tag publication-tag--iclr"><span>ICLR</span><strong>2</strong></span>
 <span class="publication-tag publication-tag--jmlr"><span>JMLR</span><strong>1</strong></span>
 <span class="publication-tag publication-tag--neurips"><span>NeurIPS</span><strong>1</strong></span>
+
 </div>
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wzever.github.io/_pages/images/M2GenCO_pipeline.png' alt="m2genco" height="300"></div></div>
