@@ -342,6 +342,8 @@ body {
 }
 
 .page__content .publication-stat {
+    position: relative;
+    overflow: hidden;
     display: inline-flex;
     align-items: baseline;
     gap: 0.45rem;
@@ -351,6 +353,36 @@ body {
     border: 1px solid var(--line);
     border-radius: 6px;
     box-shadow: 0 3px 10px rgba(23, 43, 77, 0.04);
+}
+
+.page__content .publication-stat:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 2px;
+    background: var(--stat-color);
+}
+
+.page__content .publication-stat:nth-child(1) {
+    --stat-color: #1f8f83;
+}
+
+.page__content .publication-stat:nth-child(2) {
+    --stat-color: #6657e8;
+}
+
+.page__content .publication-stat:nth-child(3) {
+    --stat-color: #b7791f;
+}
+
+.page__content .publication-stat:nth-child(-n + 3) {
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), 0 5px 14px rgba(23, 43, 77, 0.07);
+}
+
+.page__content .publication-stat:nth-child(-n + 3) .publication-stat-value {
+    color: var(--stat-color);
 }
 
 .page__content .publication-stat-value {

@@ -63,17 +63,22 @@ My research interests include learning to solve complex discrete optimization pr
 - *2021.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
 - *2021.05* Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 **top 8%** in SJTU)
 
+<span class='anchor' id='academic-services'></span>
+## 🔍 Academic Services
+---
+- *2026*: Reviewer for **AAAI 2027** and **ICLR 2027**.
+- *2026.02*: Reviewer for **ICML 2026**, among the qualified **2%** of undergraduate/master's student reviewers.
+- *2025.10*: Reviewer for **ICLR 2026** and **AAMAS 2026**.
+- *2024.10*: Reviewer for **ICLR 2025**.
+
 ## 🔥 News
 ---
 - *2026.06*: 🎉 I received a conditional offer from **SII** as a Ph.D. student for 2027 (**national admission rate <5%**)!
 - *2026.05*: 🎉 Two papers were accepted by **ICML 2026** and I was awarded the **Gold Reviewer**!
-- *2026.02*: 🔍 I served as a **reviewer** for **ICML 2026** (among the qualified **2%** Undergraduate/Master's student reviewers)!
 - *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
-- *2025.10*: 🔍 I served as a **reviewer** for **ICLR 2026** and **AAMAS 2026**!
 - *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
 - *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
 - *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
-- *2024.10*: 🔍 I served as a **reviewer** for **ICLR 2025**!
 - *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU!
 - *2024.01*: 🎉 One paper was accepted by **JMLR**!
 
