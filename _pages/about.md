@@ -27,12 +27,12 @@ My research interests include learning to solve complex discrete optimization pr
 ## 📖 Educations
 ---
 - *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree)
-    - <span class="education-detail"><strong>Overall</strong> GPA 3.91 <span class="education-divider">|</span> Ranking top 8% (17/223)</span>
-    - <span class="education-detail"><strong>Courses</strong> Above A- 10/10 <span class="education-divider">|</span> Above A 7/10</span>
+    - <span class="education-detail"><strong>Overall</strong> GPA **3.91** <span class="education-divider">|</span> Ranking **top 8%** (17/223)</span>
+    - <span class="education-detail"><strong>Courses</strong> Above A- **10/10** <span class="education-divider">|</span> Above A **7/10**</span>
 - *2020.09 - 2024.06*, Department of Computer Science and Engineering (***IEEE Honors Class***), SJTU (B.E. Degree obtained)
-    - <span class="education-detail"><strong>Overall</strong> GPA 3.92 <span class="education-divider">|</span> Grade 90.82 <span class="education-divider">|</span> Ranking top 10%</span>
-    - <span class="education-detail"><strong>Courses</strong> Above A- 53/61 <span class="education-divider">|</span> Above A 38/61</span>
-    - <span class="education-detail"><strong>Language</strong> IELTS 7.5 <span class="education-divider">|</span> CET-6 646 <span class="education-divider">|</span> CET-4 670</span>
+    - <span class="education-detail"><strong>Overall</strong> GPA **3.92** <span class="education-divider">|</span> Grade **90.82** <span class="education-divider">|</span> Ranking **top 10%**</span>
+    - <span class="education-detail"><strong>Courses</strong> Above A- **53/61** <span class="education-divider">|</span> Above A **38/61**</span>
+    - <span class="education-detail"><strong>Language</strong> IELTS **7.5** <span class="education-divider">|</span> CET-6 **646** <span class="education-divider">|</span> CET-4 **670**</span>
 
 <span class='anchor' id='publications'></span>
 {% include_relative pubs.md %}
@@ -65,10 +65,7 @@ My research interests include learning to solve complex discrete optimization pr
 <span class='anchor' id='academic-services'></span>
 ## 🔍 Academic Services
 ---
-- *2026*: Reviewer for **AAAI 2027** and **ICLR 2027**.
-- *2026.02*: Reviewer for **ICML 2026**, among the qualified **2%** of undergraduate/master's student reviewers.
-- *2025.10*: Reviewer for **ICLR 2026** and **AAMAS 2026**.
-- *2024.10*: Reviewer for **ICLR 2025**.
+- Reviewer for **AAAI 2027**, **ICML 2026** (**Gold Reviewer**), **AAMAS 2026**, **NeurIPS 2026**, **ICLR 2026**, **NeurIPS 2025**, and **ICLR 2025**.
 
 ## 🔥 News
 ---
