@@ -18,7 +18,7 @@
 @media (min-width: 768px) {
   .paper-box { align-items: center; }
   .paper-box .paper-box-image { align-self: center; display: flex; align-items: center; margin-top: auto; margin-bottom: auto; }
-  .paper-box .paper-box-image > div { position: relative; display: flex; align-items: center; justify-content: center; width: 100%; }
+  .paper-box .paper-box-image > div { position: relative; display: flex; align-items: center; justify-content: center; width: fit-content; max-width: 100%; }
   .paper-box .paper-box-image img { align-self: center; }
 }
 </style>

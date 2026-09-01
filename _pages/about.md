@@ -27,13 +27,12 @@ My research interests include learning to solve complex discrete optimization pr
 ## 📖 Educations
 ---
 - *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree)
-    - Overall: ![gpa](https://img.shields.io/badge/GPA-3.91-blue) ![rank](https://img.shields.io/badge/Ranking-top_8%25_(17/223)-blue)
-    - Courses: ![course-above-a-](https://img.shields.io/badge/Above_A--_-10/10-orange)  ![course-above-a](https://img.shields.io/badge/Above_A-7/10-orange)
+    - <span class="education-detail"><strong>Overall</strong> GPA 3.91 <span class="education-divider">|</span> Ranking top 8% (17/223)</span>
+    - <span class="education-detail"><strong>Courses</strong> Above A- 10/10 <span class="education-divider">|</span> Above A 7/10</span>
 - *2020.09 - 2024.06*, Department of Computer Science and Engineering (***IEEE Honors Class***), SJTU (B.E. Degree obtained)
-    - Overall: ![gpa](https://img.shields.io/badge/GPA-3.92-blue) ![grade](https://img.shields.io/badge/Grade-90.82-blue) ![rank](https://img.shields.io/badge/Ranking-top_10%25-blue)
-    - Courses: ![course-above-a-](https://img.shields.io/badge/Above_A--_-53/61-orange)  ![course-above-a](https://img.shields.io/badge/Above_A-38/61-orange)
-    - Language: ![ielts](https://img.shields.io/badge/IELTS-7.5-green) ![cet4](https://img.shields.io/badge/CET--6-646-green)
-      ![cet6](https://img.shields.io/badge/CET--4-670-green)
+    - <span class="education-detail"><strong>Overall</strong> GPA 3.92 <span class="education-divider">|</span> Grade 90.82 <span class="education-divider">|</span> Ranking top 10%</span>
+    - <span class="education-detail"><strong>Courses</strong> Above A- 53/61 <span class="education-divider">|</span> Above A 38/61</span>
+    - <span class="education-detail"><strong>Language</strong> IELTS 7.5 <span class="education-divider">|</span> CET-6 646 <span class="education-divider">|</span> CET-4 670</span>
 
 <span class='anchor' id='publications'></span>
 {% include_relative pubs.md %}

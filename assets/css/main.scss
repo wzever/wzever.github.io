@@ -273,6 +273,7 @@ body {
 }
 
 .paper-box .paper-box-image img {
+    display: block;
     width: 100%;
     max-width: 360px;
     border-radius: 5px;
@@ -284,7 +285,8 @@ body {
     display: flex;
     align-items: center;
     height: 100%;
-    width: 100%;
+    width: fit-content;
+    max-width: 100%;
 }
 
 @include breakpoint($medium) {
@@ -313,8 +315,8 @@ body {
 }
 
 .badge {
-    top: 0.8rem;
-    left: 0.9rem;
+    top: 0;
+    left: 0;
     margin: 0;
     padding: 0.2rem 0.6rem;
     color: #fff;
@@ -323,6 +325,26 @@ body {
     font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0.04em;
+    z-index: 2;
+    display: block;
+}
+
+.page__content .education-detail {
+    color: var(--muted);
+    font-size: 0.94rem;
+    letter-spacing: 0.01em;
+}
+
+.page__content .education-detail strong {
+    display: inline-block;
+    min-width: 4.8rem;
+    color: var(--heading);
+    font-weight: 700;
+}
+
+.page__content .education-divider {
+    margin: 0 0.45rem;
+    color: #b8c3cf;
 }
 
 .page__content .publication-overview {
@@ -481,6 +503,10 @@ img[alt="cet6"] {
 
     .paper-box .paper-box-image img {
         max-width: 100%;
+    }
+
+    .paper-box .paper-box-image > div {
+        width: 100%;
     }
 
     .paper-box .paper-box-image {
