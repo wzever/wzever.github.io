@@ -14,7 +14,6 @@
 .publication-tag--iclr { --tag-color: #6657e8; }
 .publication-tag--jmlr { --tag-color: #7863b0; }
 .publication-tag--neurips { --tag-color: #ef634d; }
- .publication-tag--other { --tag-color: #94a3b8; }
 @media (max-width: 767px) { .publication-stat, .publication-tag { flex: 1 1 6.5rem; } }
 @media (min-width: 768px) {
   .paper-box { align-items: center; }
@@ -44,7 +43,7 @@
 <span class="publication-tag publication-tag--icml"><span>ICML</span><strong>3</strong></span>
 <span class="publication-tag publication-tag--iclr"><span>ICLR</span><strong>2</strong></span>
 <span class="publication-tag publication-tag--neurips"><span>NeurIPS</span><strong>1</strong></span>
-<span class="publication-tag publication-tag--other"><span>Other</span><strong>1</strong></span>
+<span class="publication-tag publication-tag--jmlr"><span>JMLR</span><strong>1</strong></span>
 
 </div>
 
