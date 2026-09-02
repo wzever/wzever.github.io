@@ -66,7 +66,7 @@
 
 <span style="color:red;">(**CCF-A**)</span> [**Design Linear Constrained Neural Layers with Implicit Convex Optimization**](https://openreview.net/forum?id=LHCQSx0cQV) [[PDF](https://openreview.net/pdf?id=LHCQSx0cQV)]
 
-[Junchi Yan](https://thinklab.sjtu.edu.cn), Jiaxi Liu, Yihui Tu, Fangyuan Zhou, <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Zhongteng Gui, [Liangliang Shi](https://www.simis.cn/zh/liangliang-shi/)
+[Junchi Yan](https://thinklab.sjtu.edu.cn), [Jiaxi Liu](https://ecthelionliu.github.io), Yihui Tu, Fangyuan Zhou, <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Zhongteng Gui, [Liangliang Shi](https://www.simis.cn/zh/liangliang-shi/)
 
 - We propose **LinConLayer**, a plug-in differentiable neural layer that enforces general linear constraints via implicit convex optimization, yielding efficient BLCLayer and GLCLayer variants for constrained prediction in tasks such as graph matching, portfolio allocation, and linear programming.
 </div>
