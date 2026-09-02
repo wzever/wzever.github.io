@@ -18,18 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍💻 About Me
-I am currently a second-year master student with the [School of Computer Science, **Shanghai Jiao Tong University (上海交通大学计算机学院)**](https://www.cs.sjtu.edu.cn). I have been a member of [**ReThinkLab**](https://github.com/Thinklab-SJTU) since 2022 and supervised by [**Prof. Junchi Yan (严骏驰)**](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (**IEEE Honors Class**, subject to a provincial top 0.01% ranking in the College Entrance Exam) of SJTU in 2024. Recently, I have been admitted to [**Shanghai Innovation Institute (上海创智学院)**](https://www.sii.edu.cn), where I'm planning to start my Ph.D. study in 2027.
+I am currently a second-year master student with the [School of Computer Science, **Shanghai Jiao Tong University (上海交通大学计算机学院)**](https://www.cs.sjtu.edu.cn). I have been a member of [**ReThinkLab**](https://github.com/Thinklab-SJTU) since 2022 and supervised by [**Prof. Junchi Yan (严骏驰)**](https://thinklab.sjtu.edu.cn) who leads the lab. I obtained my Bachelor of Engineering Degree from the Department of Computer Science and Engineering (**IEEE Honors Class**, subject to a provincial top 0.01% ranking in the College Entrance Exam) of SJTU in 2024. Recently, I have been admitted to [**Shanghai Innovation Institute (上海创智学院)**](https://www.sii.edu.cn), where I'm planning to start my Ph.D. program in 2027.
 
-My research interests include learning to solve complex discrete optimization problems (esp. **neural combinatorial optimization**), generative models, machine learning on graphs, and broader fields towards large decision-making models and scientific intelligence. **More recently, I've also started to explore the intersection of large language models (LLMs) as well as agentic systems with my major research directions. I'm actively seeking internship opportunities.**
+My research interests include learning to solve complex discrete optimization problems (esp. **neural combinatorial optimization**), generative models, machine learning on graphs, and broader fields towards large decision-making models and scientific intelligence. **More recently, I've also started to explore the intersection of large language models (LLMs) as well as agentic systems with my major research directions.**
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 ## 📖 Educations
 ---
-- *2024.09 - now*, School of Computer Science, SJTU (pursuing the Master's Degree)
+- *2024.09 - now*, School of Computer Science, SJTU (Master's Program)
     - <span class="education-detail"><strong>Overall</strong> GPA **3.91** <span class="education-divider">|</span> Ranking **top 8%** (17/223)</span>
     - <span class="education-detail"><strong>Courses</strong> Above A- **10/10** <span class="education-divider">|</span> Above A **7/10**</span>
-- *2020.09 - 2024.06*, Department of Computer Science and Engineering (***IEEE Honors Class***), SJTU (B.E. Degree obtained)
+- *2020.09 - 2024.06*, Department of Computer Science and Engineering (IEEE Honors Class), SJTU (B.E. Degree)
     - <span class="education-detail"><strong>Overall</strong> GPA **3.92** <span class="education-divider">|</span> Grade **90.82** <span class="education-divider">|</span> Ranking **top 10%**</span>
     - <span class="education-detail"><strong>Courses</strong> Above A- **53/61** <span class="education-divider">|</span> Above A **38/61**</span>
     - <span class="education-detail"><strong>Language</strong> IELTS **7.5** <span class="education-divider">|</span> CET-6 **646** <span class="education-divider">|</span> CET-4 **670**</span>
