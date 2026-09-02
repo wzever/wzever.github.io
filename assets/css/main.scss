@@ -249,6 +249,31 @@ body {
     color: var(--accent);
 }
 
+.sidebar .author__visit-count {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    margin-top: 0.35rem;
+    padding-top: 0.55rem;
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    font-size: 0.78rem;
+    letter-spacing: 0.01em;
+}
+
+.sidebar .author__visit-count i {
+    color: var(--accent);
+    margin-right: 0.15rem;
+}
+
+.sidebar .author__visit-count strong {
+    margin-left: auto;
+    color: var(--heading);
+    font-size: 0.86rem;
+    font-weight: 750;
+    font-variant-numeric: tabular-nums;
+}
+
 .author__avatar img {
     border-color: var(--line);
     box-shadow: 0 4px 12px rgba(23, 43, 77, 0.1);
