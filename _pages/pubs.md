@@ -54,7 +54,7 @@
 
 <span style="color:red;">(**CCF-A**)</span> [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA) [[PDF](https://openreview.net/pdf?id=OfxgzjqzeA)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/M2GenCO?style=social)](https://github.com/Thinklab-SJTU/M2GenCO)]
 
-<span style="text-decoration: underline;">**Wenzheng Pan**</span>, [Jiale Ma](https://heatingma.github.io/), [Nuoyan Chen](https://cny123222.github.io/about/), [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
+**Wenzheng Pan**, [Jiale Ma](https://heatingma.github.io/), [Nuoyan Chen](https://cny123222.github.io/about/), [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 
 - We introduce **M²GenCO**, a meta-generative framework that treats problem distributions as tasks to enable efficient multi-task pretraining, few-shot adaptation, and robust generalization across graph-based combinatorial optimization problems. 
@@ -66,7 +66,7 @@
 
 <span style="color:red;">(**CCF-A**)</span> [**Design Linear Constrained Neural Layers with Implicit Convex Optimization**](https://openreview.net/forum?id=LHCQSx0cQV) [[PDF](https://openreview.net/pdf?id=LHCQSx0cQV)]
 
-[Junchi Yan](https://thinklab.sjtu.edu.cn), [Jiaxi Liu](https://ecthelionliu.github.io), Yihui Tu, Fangyuan Zhou, <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Zhongteng Gui, [Liangliang Shi](https://www.simis.cn/zh/liangliang-shi/)
+[Junchi Yan](https://thinklab.sjtu.edu.cn), [Jiaxi Liu](https://ecthelionliu.github.io), [Yihui Tu](https://openreview.net/profile?id=~Yihui_Tu1), Fangyuan Zhou, **Wenzheng Pan**, Zhongteng Gui, [Liangliang Shi](https://www.simis.cn/zh/liangliang-shi/)
 
 - We propose **LinConLayer**, a plug-in differentiable neural layer that enforces general linear constraints via implicit convex optimization, yielding efficient BLCLayer and GLCLayer variants for constrained prediction in tasks such as graph matching, portfolio allocation, and linear programming.
 </div>
@@ -78,7 +78,7 @@
 <span style="color:red;">(**CCF-A**)</span> [**ML4CO-Bench-101: Benchmark Machine Learning
 for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=ye4ntB1Kzi) [[PDF](https://openreview.net/pdf?id=ye4ntB1Kzi)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social)](https://github.com/Thinklab-SJTU/ML4CO-Bench-101)]
 
-[Jiale Ma](https://heatingma.github.io/), <span style="text-decoration: underline;">**Wenzheng Pan**</span>, [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
+[Jiale Ma](https://heatingma.github.io/), **Wenzheng Pan**, [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 
 - We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluation framework that systematically categorizes, reproduces, and compares neural solvers across seven mainstream graph-based combinatorial optimization problems.
@@ -90,7 +90,7 @@ for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=
 
 <span style="color:red;">(**CCF-A**)</span> [**COExpander: Adaptive Solution Expansion for Combinatorial Optimization**](https://openreview.net/forum?id=KMaBXMWsBM) [[PDF](https://openreview.net/pdf?id=KMaBXMWsBM)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/COExpander?style=social)](https://github.com/Thinklab-SJTU/COExpander)]
 
-[Jiale Ma](https://heatingma.github.io/)\*, <span style="text-decoration: underline;">**Wenzheng Pan**</span>\*, [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
+[Jiale Ma](https://heatingma.github.io/)\*, **Wenzheng Pan**\*, [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 
 - We introduce **COExpander**, an adaptive expansion paradigm that bridges global prediction and local construction by progressively determining decision variables with dynamically controlled step sizes for scalable combinatorial optimization.
@@ -103,7 +103,7 @@ for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=
 
 <span style="color:red;">(**CCF-A**)</span> [**UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP**](https://openreview.net/forum?id=yEwakMNIex) [[PDF](https://openreview.net/pdf?id=yEwakMNIex)] [[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/UniCO?style=social)](https://github.com/Thinklab-SJTU/UniCO)]
 
-<span style="text-decoration: underline;">**Wenzheng Pan**</span>\*, [Hao Xiong](https://shawxh.github.io)\*, [Jiale Ma](https://heatingma.github.io/), Wentao Zhao, [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
+**Wenzheng Pan**\*, [Hao Xiong](https://shawxh.github.io)\*, [Jiale Ma](https://heatingma.github.io/), Wentao Zhao, [Yang Li](https://yangco-le.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 - We propose **UniCO**, a unified neural combinatorial optimization framework that reduces diverse COPs into matrix-encoded general TSP and solves them with tailored matrix-based RL and diffusion solvers: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, a Diffusion-based generative model with the mix-noised reference mapping scheme.
 </div>
@@ -114,7 +114,7 @@ for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=
 
 <span style="color:red;">(**CCF-A**)</span> [**Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search**](https://openreview.net/forum?id=grU1VKEOLi) [[PDF](https://openreview.net/pdf?id=grU1VKEOLi)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/ML4TSPBench?style=social)](https://github.com/Thinklab-SJTU/ML4TSPBench)]
 
-[Yang Li](https://yangco-le.github.io), [Jiale Ma](https://heatingma.github.io/), <span style="text-decoration: underline;">**Wenzheng Pan**</span>, [Runzhong Wang](http://runzhong.wang), [Haoyu Geng](https://scholar.google.com/citations?user=_R_RZpAAAAAJ&hl=zh-CN), [Nianzu Yang](https://yangnianzu0515.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
+[Yang Li](https://yangco-le.github.io), [Jiale Ma](https://heatingma.github.io/), **Wenzheng Pan**, [Runzhong Wang](http://runzhong.wang), [Haoyu Geng](https://scholar.google.com/citations?user=_R_RZpAAAAAJ&hl=zh-CN), [Nianzu Yang](https://yangnianzu0515.github.io), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 - We present **ML4TSPBench**, a modular framework that decomposes learning-based TSP solvers into reusable learning and search components, revealing key design principles for stronger and more principled ML4CO methods.
 </div>
@@ -125,7 +125,7 @@ for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=
 
 <span style="color:red;">(**CCF-A**)</span> [**Pygmtools: A Python Graph Matching Toolkit**](https://jmlr.org/papers/v25/23-0572.html) [[PDF](https://jmlr.org/papers/volume25/23-0572/23-0572.pdf)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools)]
 
-[Runzhong Wang](http://runzhong.wang), [Ziao Guo](https://ziao-guo.github.io), <span style="text-decoration: underline;">**Wenzheng Pan**</span>, [Jiale Ma](https://heatingma.github.io/), Yikai Zhang, Nan Yang, [Qi Liu](https://scholar.google.com/citations?user=NOesDE8AAAAJ&hl=zh-CN), Longxuan Wei, Hanxue Zhang, Chang Liu, [Zetian Jiang](https://scholar.google.com/citations?user=VzyV9GoAAAAJ&hl=zh-CN), Xiaokang Yang, [Junchi Yan](https://thinklab.sjtu.edu.cn)
+[Runzhong Wang](http://runzhong.wang), [Ziao Guo](https://ziao-guo.github.io), **Wenzheng Pan**, [Jiale Ma](https://heatingma.github.io/), Yikai Zhang, Nan Yang, [Qi Liu](https://scholar.google.com/citations?user=NOesDE8AAAAJ&hl=zh-CN), Longxuan Wei, Hanxue Zhang, Chang Liu, [Zetian Jiang](https://scholar.google.com/citations?user=VzyV9GoAAAAJ&hl=zh-CN), Xiaokang Yang, [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 
 - We release **Pygmtools**, an open-source Python toolkit that unifies classical, multi-graph, and learning-based graph matching solvers across multiple numerical backends for research and practical applications.
