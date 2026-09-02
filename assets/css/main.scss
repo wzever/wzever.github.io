@@ -249,19 +249,36 @@ body {
     color: var(--accent);
 }
 
+.sidebar .author__extras {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.9rem;
+    margin-top: 0.3rem;
+}
+
+.sidebar .author__extras > a,
 .sidebar .author__visit-count {
     display: flex;
     align-items: center;
     gap: 0.2rem;
     color: var(--muted);
+    font-size: inherit;
+    line-height: 1.5;
+    text-decoration: none;
 }
 
-.sidebar .author__visit-count i {
+.sidebar .author__extras > a:hover {
+    color: var(--accent);
+    text-decoration: underline;
+}
+
+.sidebar .author__extras i {
     color: var(--accent);
     margin-right: 0.15rem;
 }
 
-.sidebar .author__visit-count strong {
+.sidebar .author__extras strong {
     margin-left: auto;
     color: var(--heading);
     font-weight: 750;
@@ -715,6 +732,16 @@ img[alt="cet6"] {
 }
 
 @media (max-width: 925px) {
+    .profile_box {
+        flex-wrap: wrap;
+    }
+
+    .author__urls-wrapper {
+        flex: 1 1 100%;
+        width: 100%;
+        margin-left: 0;
+    }
+
     #main {
         margin-top: 1.25rem;
         padding-left: 1rem;

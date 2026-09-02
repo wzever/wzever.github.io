@@ -106,12 +106,6 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
-      <li><a href="{{ '/CV/resume_master%20(17).pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
-      <li class="author__visit-count" id="busuanzi_container_site_pv" style="display: none;">
-        <i class="fas fa-fw fa-chart-line" aria-hidden="true"></i>
-        <span>Site Visits</span>
-        <strong id="busuanzi_value_site_pv">--</strong>
-      </li>
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
@@ -125,6 +119,14 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
     </ul>
+      <div class="author__extras">
+        <a href="{{ '/CV/resume_master%20(17).pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a>
+        <span class="author__visit-count" id="busuanzi_container_site_pv" style="display: none;">
+          <i class="fas fa-fw fa-chart-line" aria-hidden="true"></i>
+          <span>Site Visits</span>
+          <strong id="busuanzi_value_site_pv">--</strong>
+        </span>
+      </div>
       <div class="author__urls_sm">
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
