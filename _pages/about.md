@@ -26,17 +26,21 @@ My research interests include learning to solve complex discrete optimization pr
 
 ## 📖 Educations
 ---
-- *2024.09 - now*, School of Computer Science, SJTU (Master's Program)
+<div class="education-card">
+  <div class="education-title"><span class="education-period">2024.09 - now</span><strong>School of Computer Science, SJTU</strong><span>(Master's Program)</span></div>
   <div class="education-metrics">
     <div class="education-detail"><strong>Overall</strong><span>GPA <b>3.91</b></span><span>Ranking <b>top 8%</b> (17/223)</span></div>
     <div class="education-detail"><strong>Courses</strong><span>Above A- <b>10/10</b></span><span>Above A <b>7/10</b></span></div>
   </div>
-- *2020.09 - 2024.06*, Department of Computer Science and Engineering (IEEE Honors Class), SJTU (B.E. Degree)
+</div>
+<div class="education-card">
+  <div class="education-title"><span class="education-period">2020.09 - 2024.06</span><strong>Department of Computer Science and Engineering (IEEE Honors Class), SJTU</strong><span>(B.E. Degree)</span></div>
   <div class="education-metrics">
     <div class="education-detail"><strong>Overall</strong><span>GPA <b>3.92</b></span><span>Grade <b>90.82</b></span><span>Ranking <b>top 10%</b></span></div>
     <div class="education-detail"><strong>Courses</strong><span>Above A- <b>53/61</b></span><span>Above A <b>38/61</b></span></div>
     <div class="education-detail"><strong>Language</strong><span>IELTS <b>7.5</b></span><span>CET-6 <b>646</b></span><span>CET-4 <b>670</b></span></div>
   </div>
+</div>
 
 <span class='anchor' id='publications'></span>
 {% include_relative pubs.md %}
@@ -45,27 +49,27 @@ My research interests include learning to solve complex discrete optimization pr
 ## ⚙️ Open Source Projects
 ---
 <div class="project-card">
-<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/awesome-ml4co"><strong>Awesome-ML4CO</strong></a></p>
+<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/awesome-ml4co"><strong>Awesome-ML4CO</strong> <img class="github-stars" src="https://img.shields.io/github/stars/Thinklab-SJTU/awesome-ml4co?style=social" alt="GitHub stars"></a></p>
 <p class="project-card-description">A curated collection of literature in the ML4CO field, organized to support researchers in accessing both foundational and recent developments. This repository is maintained with a joint effort by members in SJTU-Thinklab as well as contributors from the community.</p>
 </div>
 
 <div class="project-card">
-<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/ML4CO-Kit"><strong>ML4CO-Kit</strong></a></p>
+<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/ML4CO-Kit"><strong>ML4CO-Kit</strong> <img class="github-stars" src="https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Kit?style=social" alt="GitHub stars"></a></p>
 <p class="project-card-description">A general-purpose toolkit that provides implementations of common algorithms used in ML4CO, along with basic training frameworks, traditional solvers and data generation tools. It aims to simplify the implementation of key techniques and offer a solid base for developing machine learning models for COPs.</p>
 </div>
 
 <div class="project-card">
-<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/ML4TSPBench"><strong>ML4TSPBench</strong></a></p>
+<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/ML4TSPBench"><strong>ML4TSPBench</strong> <img class="github-stars" src="https://img.shields.io/github/stars/Thinklab-SJTU/ML4TSPBench?style=social" alt="GitHub stars"></a></p>
 <p class="project-card-description">A benchmark focusing on exploring the TSP for representativeness. It offers a deep dive into various methodology designs, enabling comparisons and the development of specialized algorithms.</p>
 </div>
 
 <div class="project-card">
-<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/ML4CO-Bench-101"><strong>ML4CO-Bench-101</strong></a></p>
+<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/ML4CO-Bench-101"><strong>ML4CO-Bench-101</strong> <img class="github-stars" src="https://img.shields.io/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social" alt="GitHub stars"></a></p>
 <p class="project-card-description">A benchmark that categorizes neural combinatorial optimization (NCO) solvers by solving paradigms, model designs, and learning strategies. It evaluates applicability and generalization of different NCO approaches across a broad range of combinatorial optimization problems to uncover universal insights that can be transferred across various domains of ML4CO.</p>
 </div>
 
 <div class="project-card">
-<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/pygmtools"><strong>Pygmtools</strong></a></p>
+<p class="project-card-title"><a href="https://github.com/Thinklab-SJTU/pygmtools"><strong>Pygmtools</strong> <img class="github-stars" src="https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social" alt="GitHub stars"></a></p>
 <p class="project-card-description">A Python graph matching toolkit that implements a comprehensive collection of two-graph matching and multi-graph matching solvers, covering both learning-free solvers as well as learning-based neural graph matching solvers. Our implementation supports numerical backends including Numpy, PyTorch, Jittor, Paddle, runs on Windows, MacOS and Linux, and is friendly to install and configure.</p>
 </div>
 

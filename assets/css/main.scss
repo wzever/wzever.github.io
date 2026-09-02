@@ -350,6 +350,38 @@ body {
     margin: 0.55rem 0 1rem;
 }
 
+.page__content .education-card {
+    margin: 0.9rem 0;
+    padding: 1rem 1.05rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 3px solid #b8cbd9;
+    border-radius: 7px;
+    box-shadow: 0 4px 13px rgba(23, 43, 77, 0.045);
+}
+
+.page__content .education-title {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.5rem;
+    color: var(--muted);
+    line-height: 1.5;
+}
+
+.page__content .education-title strong {
+    color: var(--heading);
+    font-size: 1.02rem;
+    font-weight: 700;
+}
+
+.page__content .education-period {
+    color: var(--accent);
+    font-size: 0.86rem;
+    font-weight: 650;
+    white-space: nowrap;
+}
+
 .page__content .education-detail {
     display: flex;
     align-items: baseline;
@@ -405,6 +437,14 @@ body {
     font-size: 1.02rem;
     font-weight: 700;
     text-decoration: none;
+}
+
+.page__content .project-card .github-stars {
+    width: auto;
+    height: 1.15rem;
+    margin-left: 0.25rem;
+    vertical-align: -0.22rem;
+    box-shadow: none;
 }
 
 .page__content .project-card .project-card-description {
@@ -495,27 +535,40 @@ body {
 }
 
 .page__content .publication-tag {
+    position: relative;
+    overflow: hidden;
     display: inline-flex;
     align-items: center;
     justify-content: space-between;
-    gap: 0.75rem;
-    min-width: 6.6rem;
-    padding: 0.48rem 0.65rem 0.48rem 0.75rem;
-    color: #4b5563;
-    background: #f8f7f2;
-    border: 1px solid #d9dde5;
-    border-left: 5px solid var(--tag-color);
-    border-radius: 7px;
-    font-size: 0.82rem;
-    font-weight: 700;
-    letter-spacing: 0.04em;
+    gap: 0.45rem;
+    min-width: 6.1rem;
+    padding: 0.5rem 0.65rem;
+    color: var(--muted);
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(23, 43, 77, 0.04);
+    font-size: 0.68rem;
+    font-weight: 650;
+    letter-spacing: 0.035em;
     line-height: 1;
+    text-transform: uppercase;
+}
+
+.page__content .publication-tag:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 2px;
+    background: var(--tag-color);
 }
 
 .page__content .publication-tag strong {
-    color: #374151;
-    font-size: 0.95rem;
-    font-weight: 800;
+    color: var(--tag-color);
+    font-size: 1.05rem;
+    font-weight: 750;
 }
 
 .page__content .publication-tag--icml {
