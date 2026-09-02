@@ -387,16 +387,8 @@ body {
     background: var(--stat-color);
 }
 
-.page__content .publication-stat:nth-child(1) {
-    --stat-color: #1f8f83;
-}
-
-.page__content .publication-stat:nth-child(2) {
-    --stat-color: #6657e8;
-}
-
-.page__content .publication-stat:nth-child(3) {
-    --stat-color: #b7791f;
+.page__content .publication-stat:nth-child(-n + 3) {
+    --stat-color: var(--accent);
 }
 
 .page__content .publication-stat:nth-child(-n + 3) {
@@ -405,6 +397,14 @@ body {
 
 .page__content .publication-stat:nth-child(-n + 3) .publication-stat-value {
     color: var(--stat-color);
+}
+
+.page__content .publication-stat-separator {
+    align-self: stretch;
+    width: 1px;
+    min-height: 1.6rem;
+    margin: 0.2rem;
+    background: #d4dde7;
 }
 
 .page__content .publication-stat-value {
@@ -523,6 +523,10 @@ img[alt="cet6"] {
 
     .page__content .publication-tag {
         flex: 1 1 6.5rem;
+    }
+
+    .page__content .publication-stat-separator {
+        display: none;
     }
 }
 

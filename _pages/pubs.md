@@ -8,13 +8,16 @@
 .publication-stat { display: inline-flex; align-items: baseline; gap: .35rem; min-width: 6.1rem; padding: .5rem .65rem; background: #fff; border: 1px solid #dbe3ec; border-radius: 6px; box-shadow: 0 3px 10px rgba(23,43,77,.04); }
 .publication-stat-value { color: #172b4d; font-size: 1.05rem; font-weight: 700; line-height: 1; }
 .publication-stat-label { color: #64748b; font-size: .68rem; font-weight: 600; letter-spacing: .035em; text-transform: uppercase; }
+.publication-stat:before { background: #1f4f7a !important; }
+.publication-stat-value { color: #1f4f7a !important; }
+.publication-stat-separator { align-self: stretch; width: 1px; min-height: 1.6rem; margin: .2rem .2rem; background: #d4dde7; }
 .publication-tag { display: inline-flex; align-items: center; justify-content: space-between; gap: .55rem; min-width: 6.6rem; padding: .48rem .65rem .48rem .75rem; color: #4b5563; background: #f8f7f2; border: 1px solid #d9dde5; border-left: 5px solid var(--tag-color); border-radius: 7px; font-size: .82rem; font-weight: 700; letter-spacing: .04em; line-height: 1; }
 .publication-tag strong { color: #374151; font-size: .95rem; font-weight: 800; }
 .publication-tag--icml { --tag-color: #198f83; }
 .publication-tag--iclr { --tag-color: #6657e8; }
 .publication-tag--jmlr { --tag-color: #7863b0; }
 .publication-tag--neurips { --tag-color: #ef634d; }
-@media (max-width: 767px) { .publication-stat, .publication-tag { flex: 1 1 6.5rem; } }
+@media (max-width: 767px) { .publication-stat, .publication-tag { flex: 1 1 6.5rem; } .publication-stat-separator { display: none; } }
 @media (min-width: 768px) {
   .paper-box { align-items: center; }
   .paper-box .paper-box-image { align-self: center; display: flex; align-items: center; margin-top: auto; margin-bottom: auto; }
@@ -40,10 +43,12 @@
 <span class="publication-stat-label">(Co-)First</span>
 </div>
 
-<span class="publication-tag publication-tag--icml"><span>ICML</span><strong>3</strong></span>
-<span class="publication-tag publication-tag--iclr"><span>ICLR</span><strong>2</strong></span>
-<span class="publication-tag publication-tag--neurips"><span>NeurIPS</span><strong>1</strong></span>
-<span class="publication-tag publication-tag--jmlr"><span>JMLR</span><strong>1</strong></span>
+<span class="publication-stat-separator" aria-hidden="true"></span>
+
+<span class="publication-tag publication-tag--icml"><strong>3</strong><span>ICML</span></span>
+<span class="publication-tag publication-tag--iclr"><strong>2</strong><span>ICLR</span></span>
+<span class="publication-tag publication-tag--neurips"><strong>1</strong><span>NeurIPS</span></span>
+<span class="publication-tag publication-tag--jmlr"><strong>1</strong><span>JMLR</span></span>
 
 </div>
 
