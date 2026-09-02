@@ -57,7 +57,7 @@
 <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan
 
 
-We introduce **M²GenCO**, a meta-generative framework that treats problem distributions as tasks to enable efficient multi-task pretraining, few-shot adaptation, and robust generalization across graph-based combinatorial optimization problems. 
+- We introduce **M²GenCO**, a meta-generative framework that treats problem distributions as tasks to enable efficient multi-task pretraining, few-shot adaptation, and robust generalization across graph-based combinatorial optimization problems. 
 </div>
 </div>
 
@@ -68,7 +68,7 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 
 Junchi Yan, Jiaxi Liu, Yihui Tu, Fangyuan Zhou, <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Zhongteng Gui, Liangliang Shi
 
-We propose **LinConLayer**, a plug-in differentiable neural layer that enforces general linear constraints via implicit convex optimization, yielding efficient BLCLayer and GLCLayer variants for constrained prediction in tasks such as graph matching, portfolio allocation, and linear programming.
+- We propose **LinConLayer**, a plug-in differentiable neural layer that enforces general linear constraints via implicit convex optimization, yielding efficient BLCLayer and GLCLayer variants for constrained prediction in tasks such as graph matching, portfolio allocation, and linear programming.
 </div>
 </div>
 
@@ -81,7 +81,7 @@ for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=
 Jiale Ma, <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Yang Li, Junchi Yan
 
 
-We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluation framework that systematically categorizes, reproduces, and compares neural solvers across seven mainstream graph-based combinatorial optimization problems.
+- We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluation framework that systematically categorizes, reproduces, and compares neural solvers across seven mainstream graph-based combinatorial optimization problems.
 </div>
 </div>
 
@@ -93,7 +93,7 @@ We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluati
 Jiale Ma\*, <span style="text-decoration: underline;">**Wenzheng Pan**</span>\*, Yang Li, Junchi Yan
 
 
-We introduce **COExpander**, an adaptive expansion paradigm that bridges global prediction and local construction by progressively determining decision variables with dynamically controlled step sizes for scalable combinatorial optimization.
+- We introduce **COExpander**, an adaptive expansion paradigm that bridges global prediction and local construction by progressively determining decision variables with dynamically controlled step sizes for scalable combinatorial optimization.
 </div>
 </div>
 
@@ -105,7 +105,7 @@ We introduce **COExpander**, an adaptive expansion paradigm that bridges global 
 
 <span style="text-decoration: underline;">**Wenzheng Pan**</span>\*, Hao Xiong\*, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan
 
-We propose **UniCO**, a unified neural combinatorial optimization framework that reduces diverse COPs into matrix-encoded general TSP and solves them with tailored matrix-based RL and diffusion solvers: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, a Diffusion-based generative model with the mix-noised reference mapping scheme.
+- We propose **UniCO**, a unified neural combinatorial optimization framework that reduces diverse COPs into matrix-encoded general TSP and solves them with tailored matrix-based RL and diffusion solvers: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, a Diffusion-based generative model with the mix-noised reference mapping scheme.
 </div>
 </div>
 
@@ -116,7 +116,7 @@ We propose **UniCO**, a unified neural combinatorial optimization framework that
 
 Yang Li, Jiale Ma, <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan
 
-We present **ML4TSPBench**, a modular framework that decomposes learning-based TSP solvers into reusable learning and search components, revealing key design principles for stronger and more principled ML4CO methods.
+- We present **ML4TSPBench**, a modular framework that decomposes learning-based TSP solvers into reusable learning and search components, revealing key design principles for stronger and more principled ML4CO methods.
 </div>
 </div>
 
@@ -128,6 +128,6 @@ We present **ML4TSPBench**, a modular framework that decomposes learning-based T
 Runzhong Wang, Ziao Guo, <span style="text-decoration: underline;">**Wenzheng Pan**</span>, Jiale Ma, Yikai Zhang, Nan Yang, Qi Liu, Longxuan Wei, Hanxue Zhang, Chang Liu, Zetian Jiang, Xiaokang Yang, Junchi Yan
 
 
-We release **Pygmtools**, an open-source Python toolkit that unifies classical, multi-graph, and learning-based graph matching solvers across multiple numerical backends for research and practical applications.
+- We release **Pygmtools**, an open-source Python toolkit that unifies classical, multi-graph, and learning-based graph matching solvers across multiple numerical backends for research and practical applications.
 </div>
 </div>
