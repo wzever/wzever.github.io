@@ -75,31 +75,35 @@ My research interests include learning to solve complex discrete optimization pr
 
 ## 🎖 Honors and Awards
 ---
-- *2025.11* First-class Academic Scholarship of SJTU (研究生学业一等奖学金 **top 10%** in Dept.)
-- *2025.10* National Scholarship for Graduate Student (研究生国家奖学金 **top 2%** nationwide)
-- *2025.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
-- *2024.06* Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学优秀毕业生 **top 10%** in SJTU)
-- *2021-2023* (Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 **top 10%** in Dept.)
-- *2022.11* Huatai Securities Technology Scholarship (华泰证券科技奖学金 **40** awarded in SJTU)
-- *2021.11* SMC-Takada Scholarship (SMC高田奖学金 **top 5%** in Dept.) 
-- *2021.09* Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 **top 8%** in SJTU) 
-- *2021.05* Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 **top 8%** in SJTU)
+<div class="honors-list">
+<div class="honor-card"><span class="honor-date">2025.11</span><span>First-class Academic Scholarship of SJTU (研究生学业一等奖学金 <strong>top 10%</strong> in Dept.)</span></div>
+<div class="honor-card"><span class="honor-date">2025.10</span><span>National Scholarship for Graduate Student (研究生国家奖学金 <strong>top 2%</strong> nationwide)</span></div>
+<div class="honor-card"><span class="honor-date">2025.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 <strong>top 8%</strong> in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2024.06</span><span>Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学优秀毕业生 <strong>top 10%</strong> in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2021-2023</span><span>(Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 <strong>top 10%</strong> in Dept.)</span></div>
+<div class="honor-card"><span class="honor-date">2022.11</span><span>Huatai Securities Technology Scholarship (华泰证券科技奖学金 <strong>40</strong> awarded in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2021.11</span><span>SMC-Takada Scholarship (SMC高田奖学金 <strong>top 5%</strong> in Dept.)</span></div>
+<div class="honor-card"><span class="honor-date">2021.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 <strong>top 8%</strong> in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2021.05</span><span>Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 <strong>top 8%</strong> in SJTU)</span></div>
+</div>
 
 <span class='anchor' id='academic-services'></span>
 ## 🔍 Academic Services
 ---
-- **Reviewer**: **ICML'26 (Gold Reviewer)**, **NeurIPS'25-26**, **ICLR'25-27**, **AAAI'27**, **AAMAS'26**.
+- **Reviewer**: **ICML'26 (Gold Reviewer)**, **NeurIPS'25-26**, **ICLR'25-26**, **AAAI'27**, **AAMAS'26**.
 
 ## 🔥 News
 ---
-- *2026.06*: 🎉 I received a conditional offer from **SII** as a Ph.D. student for 2027 (**national admission rate <5%**)!
-- *2026.05*: 🎉 Two papers were accepted by **ICML 2026** and I was awarded the **Gold Reviewer**!
-- *2025.10*: 🏅 I was awarded the **National Scholarship for Graduate Student**!
-- *2025.09*: 🎉 One paper was accepted by **NeurIPS 2025**!
-- *2025.05*: 🎉 One paper was accepted by **ICML 2025**!
-- *2025.01*: 🎉 Two papers were accepted by **ICLR 2025**!
-- *2024.06*: 🏅 I was awarded the **Outstanding Graduate** of SJTU!
-- *2024.01*: 🎉 One paper was accepted by **JMLR**!
+<div class="news-timeline">
+<div class="news-item"><span class="news-date">2026.06</span><span class="news-content">🎉 I received a conditional offer from <strong>SII</strong> as a Ph.D. student for 2027 (<strong>national admission rate &lt;5%</strong>)!</span></div>
+<div class="news-item"><span class="news-date">2026.05</span><span class="news-content">🎉 Two papers were accepted by <strong>ICML 2026</strong> and I was awarded the <strong>Gold Reviewer</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.10</span><span class="news-content">🏅 I was awarded the <strong>National Scholarship for Graduate Student</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.09</span><span class="news-content">🎉 One paper was accepted by <strong>NeurIPS 2025</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.05</span><span class="news-content">🎉 One paper was accepted by <strong>ICML 2025</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.01</span><span class="news-content">🎉 Two papers were accepted by <strong>ICLR 2025</strong>!</span></div>
+<div class="news-item"><span class="news-date">2024.06</span><span class="news-content">🏅 I was awarded the <strong>Outstanding Graduate</strong> of SJTU!</span></div>
+<div class="news-item"><span class="news-date">2024.01</span><span class="news-content">🎉 One paper was accepted by <strong>JMLR</strong>!</span></div>
+</div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

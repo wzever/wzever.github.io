@@ -422,6 +422,103 @@ body {
     transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
+.page__content .honors-list {
+    display: grid;
+    gap: 0.55rem;
+    margin: 0.65rem 0 1.1rem;
+}
+
+.page__content .honor-card {
+    display: grid;
+    grid-template-columns: 6.3rem 1fr;
+    align-items: baseline;
+    gap: 0.85rem;
+    padding: 0.7rem 0.85rem;
+    color: var(--ink);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 3px solid #b8cbd9;
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(23, 43, 77, 0.035);
+    font-size: 0.9rem;
+    line-height: 1.55;
+}
+
+.page__content .honor-card strong {
+    color: var(--heading);
+}
+
+.page__content .honor-date {
+    color: var(--accent);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+}
+
+.page__content .news-timeline {
+    position: relative;
+    margin: 0.65rem 0 1.1rem;
+    padding: 0.1rem 0;
+}
+
+.page__content .news-timeline:before {
+    content: "";
+    position: absolute;
+    top: 0.85rem;
+    bottom: 0.85rem;
+    left: 6.65rem;
+    width: 1px;
+    background: #cbd7e3;
+}
+
+.page__content .news-item {
+    position: relative;
+    display: grid;
+    grid-template-columns: 6.3rem 1fr;
+    gap: 1.1rem;
+    align-items: baseline;
+    padding: 0.58rem 0;
+}
+
+.page__content .news-item:before {
+    content: "";
+    position: absolute;
+    top: 0.92rem;
+    left: 6.43rem;
+    width: 0.48rem;
+    height: 0.48rem;
+    background: var(--surface);
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.page__content .news-date {
+    color: var(--accent);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.page__content .news-content {
+    display: block;
+    padding: 0.58rem 0.8rem;
+    color: var(--ink);
+    background: rgba(255, 255, 255, 0.62);
+    border: 1px solid rgba(219, 227, 236, 0.8);
+    border-radius: 5px;
+    font-size: 0.91rem;
+    line-height: 1.58;
+}
+
+.page__content .news-content strong {
+    color: var(--heading);
+}
+
 .page__content .project-card:hover {
     border-left-color: var(--accent);
     box-shadow: 0 8px 18px rgba(23, 43, 77, 0.08);
@@ -648,6 +745,28 @@ img[alt="cet6"] {
 
     .page__content .publication-stat-separator {
         display: none;
+    }
+
+    .page__content .honor-card {
+        grid-template-columns: 1fr;
+        gap: 0.15rem;
+    }
+
+    .page__content .news-timeline:before {
+        left: 4.85rem;
+    }
+
+    .page__content .news-item {
+        grid-template-columns: 4.5rem 1fr;
+        gap: 0.75rem;
+    }
+
+    .page__content .news-item:before {
+        left: 4.63rem;
+    }
+
+    .page__content .news-date {
+        font-size: 0.74rem;
     }
 }
 
