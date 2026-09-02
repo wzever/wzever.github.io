@@ -77,7 +77,7 @@ My research interests include learning to solve complex discrete optimization pr
 ---
 <div class="honors-list">
 <div class="honor-card"><span class="honor-date">2025.11</span><span>First-class Academic Scholarship of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in Dept.)</span></div>
-<div class="honor-card"><span class="honor-date">2025.10</span><span>National Scholarship for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
+<div class="honor-card"><span class="honor-date">2025.10</span><span>(PRC) National Scholarship for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
 <div class="honor-card"><span class="honor-date">2025.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学<strong>三好学生</strong> | <strong>top 8%</strong> in SJTU)</span></div>
 <div class="honor-card"><span class="honor-date">2024.06</span><span>Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学<strong>优秀毕业生</strong> | <strong>top 10%</strong> in SJTU)</span></div>
 <div class="honor-card"><span class="honor-date">2021-2023</span><span>(Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 | <strong>top 10%</strong> in Dept.)</span></div>
