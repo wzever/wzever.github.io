@@ -125,7 +125,7 @@ for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=
 
 <span style="color:red;">(**CCF-A**)</span> [**Pygmtools: A Python Graph Matching Toolkit**](https://jmlr.org/papers/v25/23-0572.html) [[PDF](https://jmlr.org/papers/volume25/23-0572/23-0572.pdf)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/pygmtools?style=social)](https://github.com/Thinklab-SJTU/pygmtools)]
 
-[Runzhong Wang](http://runzhong.wang), [Ziao Guo](https://ziao-guo.github.io), **Wenzheng Pan**, [Jiale Ma](https://heatingma.github.io/), Yikai Zhang, Nan Yang, [Qi Liu](https://scholar.google.com/citations?user=NOesDE8AAAAJ&hl=zh-CN), Longxuan Wei, Hanxue Zhang, Chang Liu, [Zetian Jiang](https://scholar.google.com/citations?user=VzyV9GoAAAAJ&hl=zh-CN), Xiaokang Yang, [Junchi Yan](https://thinklab.sjtu.edu.cn)
+[Runzhong Wang](http://runzhong.wang), [Ziao Guo](https://ziao-guo.github.io), **Wenzheng Pan**, [Jiale Ma](https://heatingma.github.io/), Yikai Zhang, Nan Yang, [Qi Liu](https://scholar.google.com/citations?user=NOesDE8AAAAJ&hl=zh-CN), Longxuan Wei, Hanxue Zhang, Chang Liu, [Zetian Jiang](https://scholar.google.com/citations?user=VzyV9GoAAAAJ&hl=zh-CN), [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 
 - We release **Pygmtools**, an open-source Python toolkit that unifies classical, multi-graph, and learning-based graph matching solvers across multiple numerical backends for research and practical applications.
