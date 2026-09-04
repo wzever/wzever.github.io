@@ -5,12 +5,9 @@ main:
   
   - title: "Educations"
     url: "/#-educations"
-    
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
-  - title: "Academic Services"
-    url: "/#academic-services"
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#publications"
@@ -18,5 +15,8 @@ main:
   - title: "Open-source Projects"
     url: "/#-open-source-projects"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Academic Services"
+    url: "/#academic-services"

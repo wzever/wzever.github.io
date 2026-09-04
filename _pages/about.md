@@ -43,6 +43,20 @@ My research interests include learning to solve complex discrete optimization pr
   </div>
 </div>
 
+<span class='anchor' id='-news'></span>
+## 🔥 News
+---
+<div class="news-timeline">
+<div class="news-item"><span class="news-date">2026.06</span><span class="news-content">🎉 I received a conditional offer from <strong>SII</strong> as a Ph.D. student for 2027 (<strong>national admission rate &lt;5%</strong>)!</span></div>
+<div class="news-item"><span class="news-date">2026.05</span><span class="news-content">🎉 Two papers were accepted by <strong>ICML 2026</strong> and I was awarded the <strong>Gold Reviewer</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.10</span><span class="news-content">🏅 I was awarded the <strong>National Scholarship for Graduate Student</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.09</span><span class="news-content">🎉 One paper was accepted by <strong>NeurIPS 2025</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.05</span><span class="news-content">🎉 One paper was accepted by <strong>ICML 2025</strong>!</span></div>
+<div class="news-item"><span class="news-date">2025.01</span><span class="news-content">🎉 Two papers were accepted by <strong>ICLR 2025</strong>!</span></div>
+<div class="news-item"><span class="news-date">2024.06</span><span class="news-content">🏅 I was awarded the <strong>Outstanding Graduate</strong> of SJTU!</span></div>
+<div class="news-item"><span class="news-date">2024.01</span><span class="news-content">🎉 One paper was accepted by <strong>JMLR</strong>!</span></div>
+</div>
+
 <span class='anchor' id='publications'></span>
 {% include_relative pubs.md %}
 
@@ -92,19 +106,6 @@ My research interests include learning to solve complex discrete optimization pr
 ## 🔍 Academic Services
 ---
 - **Reviewer**: **ICML'26 (Gold Reviewer)**, **NeurIPS'25-26**, **ICLR'25-27**, **AAAI'27**, **AAMAS'26**.
-
-## 🔥 News
----
-<div class="news-timeline">
-<div class="news-item"><span class="news-date">2026.06</span><span class="news-content">🎉 I received a conditional offer from <strong>SII</strong> as a Ph.D. student for 2027 (<strong>national admission rate &lt;5%</strong>)!</span></div>
-<div class="news-item"><span class="news-date">2026.05</span><span class="news-content">🎉 Two papers were accepted by <strong>ICML 2026</strong> and I was awarded the <strong>Gold Reviewer</strong>!</span></div>
-<div class="news-item"><span class="news-date">2025.10</span><span class="news-content">🏅 I was awarded the <strong>National Scholarship for Graduate Student</strong>!</span></div>
-<div class="news-item"><span class="news-date">2025.09</span><span class="news-content">🎉 One paper was accepted by <strong>NeurIPS 2025</strong>!</span></div>
-<div class="news-item"><span class="news-date">2025.05</span><span class="news-content">🎉 One paper was accepted by <strong>ICML 2025</strong>!</span></div>
-<div class="news-item"><span class="news-date">2025.01</span><span class="news-content">🎉 Two papers were accepted by <strong>ICLR 2025</strong>!</span></div>
-<div class="news-item"><span class="news-date">2024.06</span><span class="news-content">🏅 I was awarded the <strong>Outstanding Graduate</strong> of SJTU!</span></div>
-<div class="news-item"><span class="news-date">2024.01</span><span class="news-content">🎉 One paper was accepted by <strong>JMLR</strong>!</span></div>
-</div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
