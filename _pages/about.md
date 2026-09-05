@@ -91,6 +91,7 @@ My research interests include learning to solve complex discrete optimization pr
 ## 🎖 Honors and Awards
 ---
 <div class="honors-list">
+<div class="honor-card"><span class="honor-date">2026.05</span><span><strong>ICML'26 Gold Reviewer</strong></span></div>
 <div class="honor-card"><span class="honor-date">2025.11</span><span>First-class Academic Scholarship of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in Dept.)</span></div>
 <div class="honor-card"><span class="honor-date">2025.10</span><span>(PRC) National Scholarship for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
 <div class="honor-card"><span class="honor-date">2025.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学<strong>三好学生</strong> | <strong>top 8%</strong> in SJTU)</span></div>
