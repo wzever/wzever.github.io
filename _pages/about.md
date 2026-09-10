@@ -92,17 +92,17 @@ My research interests include learning to solve complex discrete optimization pr
 ## 🎖 Honors and Awards
 ---
 <div class="honors-list">
-<div class="honor-card"><span class="honor-date">2025.11</span><span>Yuanqing Yang Scholarship (“计算机85基金暨杨元庆教育基金“优秀硕士生奖学金 | <strong>2 Master students</strong> in CS.)</span></div>
-<div class="honor-card"><span class="honor-date">2026.05</span><span><strong>ICML'26 Gold Reviewer</strong></span></div>
-<div class="honor-card"><span class="honor-date">2025.11</span><span>First-class Academic Scholarship of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in CS.)</span></div>
-<div class="honor-card"><span class="honor-date">2025.10</span><span>(PRC) National Scholarship for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
-<div class="honor-card"><span class="honor-date">2025.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学<strong>三好学生</strong> | <strong>top 8%</strong> in SJTU)</span></div>
-<div class="honor-card"><span class="honor-date">2024.06</span><span>Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学<strong>优秀毕业生</strong> | <strong>top 10%</strong> in SJTU)</span></div>
-<div class="honor-card"><span class="honor-date">2021-2023</span><span>(Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 | <strong>top 10%</strong> in CS.)</span></div>
-<div class="honor-card"><span class="honor-date">2022.11</span><span>Huatai Securities Technology Scholarship (华泰证券科技奖学金 | <strong>40</strong> awarded in SJTU)</span></div>
-<div class="honor-card"><span class="honor-date">2021.11</span><span>SMC-Takada Scholarship (SMC高田奖学金 | <strong>top 5%</strong> in CS.)</span></div>
-<div class="honor-card"><span class="honor-date">2021.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 | <strong>top 8%</strong> in SJTU)</span></div>
-<div class="honor-card"><span class="honor-date">2021.05</span><span>Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 | <strong>top 8%</strong> in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2025.11</span><span><strong>Yuanqing Yang Scholarship</strong> (“计算机85基金暨杨元庆教育基金“优秀硕士生奖学金 | <strong>2 Master students</strong> in CS)</span></div>
+<div class="honor-card"><span class="honor-date">2026.05</span><span><strong>Gold Reviewer for ICML 2026</strong></span></div>
+<div class="honor-card"><span class="honor-date">2025.11</span><span><strong>First-class Academic Scholarship</strong> of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in CS)</span></div>
+<div class="honor-card"><span class="honor-date">2025.10</span><span>(PRC) <strong>National Scholarship</strong> for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
+<div class="honor-card"><span class="honor-date">2025.09</span><span><strong>Merit Student</strong> of Shanghai Jiao Tong University (上海交通大学<strong>三好学生</strong> | <strong>top 8%</strong> in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2024.06</span><span><strong>Outstanding Graduate</strong> of Shanghai Jiao Tong University (上海交通大学<strong>本科优秀毕业生</strong> | <strong>top 10%</strong> in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2021-2023</span><span>(Annual) <strong>Academic Excellence Scholarship</strong> (上海交通大学优秀奖学金 | <strong>top 10%</strong> in CS)</span></div>
+<div class="honor-card"><span class="honor-date">2022.11</span><span><strong>Huatai Securities Technology Scholarship</strong> (华泰证券科技奖学金 | <strong>40</strong> awarded in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2021.11</span><span><strong>SMC-Takada Scholarship</strong> (SMC高田奖学金 | <strong>top 5%</strong> in CS)</span></div>
+<div class="honor-card"><span class="honor-date">2021.09</span><span><strong>Merit Student</strong> of Shanghai Jiao Tong University (上海交通大学三好学生 | <strong>top 8%</strong> in SJTU)</span></div>
+<div class="honor-card"><span class="honor-date">2021.05</span><span><strong>Merit League Member</strong> of Shanghai Jiao Tong University (上海交通大学优秀团员 | <strong>top 8%</strong> in SJTU)</span></div>
 </div>
 
 <span class='anchor' id='academic-services'></span>
