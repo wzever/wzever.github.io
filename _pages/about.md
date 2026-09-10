@@ -47,6 +47,7 @@ My research interests include learning to solve complex discrete optimization pr
 ## 🔥 News
 ---
 <div class="news-timeline">
+<div class="news-item"><span class="news-date">2026.09</span><span class="news-content">🎉 I was awarded the Yuanqing Yang Scholarship (<strong>Only 2 Master student in CS</strong>)!</span></div>
 <div class="news-item"><span class="news-date">2026.06</span><span class="news-content">🎉 I received a conditional offer from <strong>SII</strong> as a Ph.D. student for 2027 (<strong>national admission rate &lt;5%</strong>)!</span></div>
 <div class="news-item"><span class="news-date">2026.05</span><span class="news-content">🎉 Two papers were accepted by <strong>ICML 2026</strong> and I was awarded the <strong>Gold Reviewer</strong>!</span></div>
 <div class="news-item"><span class="news-date">2025.10</span><span class="news-content">🏅 I was awarded the <strong>National Scholarship for Graduate Student</strong>!</span></div>
@@ -91,14 +92,15 @@ My research interests include learning to solve complex discrete optimization pr
 ## 🎖 Honors and Awards
 ---
 <div class="honors-list">
+<div class="honor-card"><span class="honor-date">2025.11</span><span>Yuanqing Yang Scholarship (“计算机85基金暨杨元庆教育基金“优秀硕士生奖学金 | <strong>2 Master students</strong> in CS.)</span></div>
 <div class="honor-card"><span class="honor-date">2026.05</span><span><strong>ICML'26 Gold Reviewer</strong></span></div>
-<div class="honor-card"><span class="honor-date">2025.11</span><span>First-class Academic Scholarship of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in Dept.)</span></div>
+<div class="honor-card"><span class="honor-date">2025.11</span><span>First-class Academic Scholarship of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in CS.)</span></div>
 <div class="honor-card"><span class="honor-date">2025.10</span><span>(PRC) National Scholarship for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
 <div class="honor-card"><span class="honor-date">2025.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学<strong>三好学生</strong> | <strong>top 8%</strong> in SJTU)</span></div>
 <div class="honor-card"><span class="honor-date">2024.06</span><span>Outstanding Graduate of Shanghai Jiao Tong University (上海交通大学<strong>优秀毕业生</strong> | <strong>top 10%</strong> in SJTU)</span></div>
-<div class="honor-card"><span class="honor-date">2021-2023</span><span>(Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 | <strong>top 10%</strong> in Dept.)</span></div>
+<div class="honor-card"><span class="honor-date">2021-2023</span><span>(Annual) Academic Excellence Scholarship (上海交通大学优秀奖学金 | <strong>top 10%</strong> in CS.)</span></div>
 <div class="honor-card"><span class="honor-date">2022.11</span><span>Huatai Securities Technology Scholarship (华泰证券科技奖学金 | <strong>40</strong> awarded in SJTU)</span></div>
-<div class="honor-card"><span class="honor-date">2021.11</span><span>SMC-Takada Scholarship (SMC高田奖学金 | <strong>top 5%</strong> in Dept.)</span></div>
+<div class="honor-card"><span class="honor-date">2021.11</span><span>SMC-Takada Scholarship (SMC高田奖学金 | <strong>top 5%</strong> in CS.)</span></div>
 <div class="honor-card"><span class="honor-date">2021.09</span><span>Merit Student of Shanghai Jiao Tong University (上海交通大学三好学生 | <strong>top 8%</strong> in SJTU)</span></div>
 <div class="honor-card"><span class="honor-date">2021.05</span><span>Merit League Member of Shanghai Jiao Tong University (上海交通大学优秀团员 | <strong>top 8%</strong> in SJTU)</span></div>
 </div>
