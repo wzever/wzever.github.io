@@ -47,7 +47,7 @@ My research interests include learning to solve complex discrete optimization pr
 ## 🔥 News
 ---
 <div class="news-timeline">
-<div class="news-item"><span class="news-date">2026.09</span><span class="news-content">🎉 I was awarded the Yuanqing Yang Scholarship (<strong>Only 2 Master student in CS</strong>)!</span></div>
+<div class="news-item"><span class="news-date">2026.09</span><span class="news-content">🎉 I was awarded the <strong>Yuanqing Yang Scholarship</strong> (<strong>Only 2 Master student in CS</strong>)!</span></div>
 <div class="news-item"><span class="news-date">2026.06</span><span class="news-content">🎉 I received a conditional offer from <strong>SII</strong> as a Ph.D. student for 2027 (<strong>national admission rate &lt;5%</strong>)!</span></div>
 <div class="news-item"><span class="news-date">2026.05</span><span class="news-content">🎉 Two papers were accepted by <strong>ICML 2026</strong> and I was awarded the <strong>Gold Reviewer</strong>!</span></div>
 <div class="news-item"><span class="news-date">2025.10</span><span class="news-content">🏅 I was awarded the <strong>National Scholarship for Graduate Student</strong>!</span></div>
