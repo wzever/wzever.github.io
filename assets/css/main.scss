@@ -484,6 +484,20 @@ body {
     color: var(--heading);
 }
 
+.page__content .honor-card--linked {
+    text-decoration: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.page__content .honor-card--linked:hover,
+.page__content .honor-card--linked:focus {
+    color: var(--ink);
+    border-left-color: var(--accent);
+    box-shadow: 0 7px 16px rgba(23, 43, 77, 0.08);
+    text-decoration: none;
+    transform: translateY(-1px);
+}
+
 .page__content .honor-date {
     color: var(--accent);
     font-size: 0.8rem;

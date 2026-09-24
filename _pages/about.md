@@ -92,7 +92,7 @@ My research interests include learning to solve complex discrete optimization pr
 ## 🎖 Honors and Awards
 ---
 <div class="honors-list">
-<div class="honor-card"><span class="honor-date">2026.09</span><span><strong>Yuanqing Yang Scholarship</strong> (“计算机85基金暨杨元庆教育基金“优秀硕士生奖学金 | <strong>2 Master's students</strong> in CS)</span></div>
+<a class="honor-card honor-card--linked" href="https://mp.weixin.qq.com/s/gDJEyJGGoN6MPZ1HHhnbGw" target="_blank" rel="noopener"><span class="honor-date">2026.09</span><span><strong>Yuanqing Yang Scholarship</strong> (“计算机85基金暨杨元庆教育基金“优秀硕士生奖学金 | <strong>2 Master's students</strong> in CS)</span></a>
 <div class="honor-card"><span class="honor-date">2026.05</span><span><strong>Gold Reviewer for ICML 2026</strong></span></div>
 <div class="honor-card"><span class="honor-date">2025.11</span><span><strong>First-class Academic Scholarship</strong> of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in CS)</span></div>
 <div class="honor-card"><span class="honor-date">2025.10</span><span>(PRC) <strong>National Scholarship</strong> for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
