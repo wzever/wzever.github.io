@@ -4,14 +4,14 @@
 
 <style>
 .publication-overview { margin: 1.15rem 0 1.75rem; }
-.publication-stats, .publication-tags { display: flex; flex-wrap: wrap; gap: .7rem; align-items: stretch; }
-.publication-stat { display: inline-flex; align-items: baseline; gap: .35rem; min-width: 6.1rem; padding: .5rem .65rem; background: #fff; border: 1px solid #dbe3ec; border-radius: 6px; box-shadow: 0 3px 10px rgba(23,43,77,.04); }
+.publication-stats, .publication-tags { display: flex; flex-wrap: wrap; gap: .3rem; align-items: stretch; }
+.publication-stat { display: inline-flex; align-items: baseline; gap: .3rem; min-width: 0; padding: .45rem .5rem; background: #fff; border: 1px solid #dbe3ec; border-radius: 6px; box-shadow: 0 3px 10px rgba(23,43,77,.04); }
 .publication-stat-value { color: #172b4d; font-size: 1.05rem; font-weight: 700; line-height: 1; }
 .publication-stat-label { color: #64748b; font-size: .68rem; font-weight: 600; letter-spacing: .035em; text-transform: uppercase; }
 .publication-stat:before { background: #1f4f7a !important; }
 .publication-stat-value { color: #1f4f7a !important; }
 .publication-stat-separator { align-self: stretch; width: 1px; min-height: 1.6rem; margin: .2rem .2rem; background: #d4dde7; }
-.publication-tag { position: relative; overflow: hidden; display: inline-flex; align-items: center; justify-content: space-between; gap: .45rem; min-width: 6.1rem; padding: .5rem .65rem; color: #64748b; background: #fff; border: 1px solid #dbe3ec; border-radius: 6px; box-shadow: 0 3px 10px rgba(23,43,77,.04); font-size: .68rem; font-weight: 650; letter-spacing: .035em; line-height: 1; text-transform: uppercase; }
+.publication-tag { position: relative; overflow: hidden; display: inline-flex; align-items: center; justify-content: space-between; gap: .3rem; min-width: 0; padding: .45rem .5rem; color: #64748b; background: #fff; border: 1px solid #dbe3ec; border-radius: 6px; box-shadow: 0 3px 10px rgba(23,43,77,.04); font-size: .68rem; font-weight: 650; letter-spacing: .035em; line-height: 1; text-transform: uppercase; }
 .publication-tag:before { content: ""; position: absolute; top: 0; right: 0; left: 0; height: 2px; background: var(--tag-color); }
 .publication-tag strong { color: var(--tag-color); font-size: 1.05rem; font-weight: 750; }
 .publication-tag--icml { --tag-color: #198f83; }
@@ -56,9 +56,7 @@
 <span class="publication-stat-label">Spotlight</span>
 </div>
 
-</div>
-
-<div class="publication-tags" aria-label="Publication venues">
+<span class="publication-stat-separator" aria-hidden="true"></span>
 
 <span class="publication-tag publication-tag--icml"><strong>3</strong><span>ICML</span></span>
 <span class="publication-tag publication-tag--iclr"><strong>2</strong><span>ICLR</span></span>
