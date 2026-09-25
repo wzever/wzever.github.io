@@ -30,17 +30,17 @@
 <div class="publication-stats" aria-label="Publication statistics and venues">
 
 <div class="publication-stat">
-<span class="publication-stat-value">7</span>
+<span class="publication-stat-value">10</span>
 <span class="publication-stat-label">Total</span>
 </div>
 
 <div class="publication-stat">
-<span class="publication-stat-value">7</span>
+<span class="publication-stat-value">10</span>
 <span class="publication-stat-label">CCF-A</span>
 </div>
 
 <div class="publication-stat">
-<span class="publication-stat-value">3</span>
+<span class="publication-stat-value">5</span>
 <span class="publication-stat-label">(Co-)First</span>
 </div>
 
@@ -48,7 +48,7 @@
 
 <span class="publication-tag publication-tag--icml"><strong>3</strong><span>ICML</span></span>
 <span class="publication-tag publication-tag--iclr"><strong>2</strong><span>ICLR</span></span>
-<span class="publication-tag publication-tag--neurips"><strong>1</strong><span>NeurIPS</span></span>
+<span class="publication-tag publication-tag--neurips"><strong>4</strong><span>NeurIPS</span></span>
 <span class="publication-tag publication-tag--jmlr"><strong>1</strong><span>JMLR</span></span>
 
 </div>
