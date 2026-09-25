@@ -690,7 +690,12 @@ body {
     font-size: 0.68rem;
     font-weight: 650;
     letter-spacing: 0.035em;
-    text-transform: uppercase;
+}
+
+.page__content .publication-stat--recognition {
+    width: 5.4rem;
+    min-width: 5.4rem;
+    box-sizing: border-box;
 }
 
 .page__content .publication-tags {
@@ -705,7 +710,9 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 0.3rem;
-    min-width: 0;
+    width: 5.25rem;
+    min-width: 5.25rem;
+    box-sizing: border-box;
     padding: 0.45rem 0.5rem;
     color: var(--muted);
     background: #fff;
@@ -716,7 +723,6 @@ body {
     font-weight: 650;
     letter-spacing: 0.035em;
     line-height: 1;
-    text-transform: uppercase;
 }
 
 .page__content .publication-tag:before {
