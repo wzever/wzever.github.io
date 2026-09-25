@@ -56,7 +56,9 @@
 <span class="publication-stat-label">Spotlight</span>
 </div>
 
-<span class="publication-stat-separator" aria-hidden="true"></span>
+</div>
+
+<div class="publication-tags" aria-label="Publication venues">
 
 <span class="publication-tag publication-tag--icml"><strong>3</strong><span>ICML</span></span>
 <span class="publication-tag publication-tag--iclr"><strong>2</strong><span>ICLR</span></span>
