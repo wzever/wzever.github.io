@@ -72,7 +72,7 @@
 
 (CCF-A) [**UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**](https://openreview.net/forum?id=M2lqt23VO7)
 
-**Wenzheng Pan**, Shuyi Yan, [Nuoyan Chen](https://cny123222.github.io/about/), Yiyang Qu, [Jiale Ma](https://heatingma.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn)
+**Wenzheng Pan**, [Shuyi Yan](https://www.cozease.cn/), [Nuoyan Chen](https://cny123222.github.io/about/), Yiyang Qu, [Jiale Ma](https://heatingma.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
 We propose **UECO**, a unified encoder for neural combinatorial optimization with structure-aware attention mixtures and iterative edge evolving. By progressively combining local topological messages with global attention, UECO serves as a shared backbone across construction, prediction, and expansion paradigms and improves solution quality and generalization across diverse combinatorial problems.
 </div>
