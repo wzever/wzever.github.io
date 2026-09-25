@@ -41,7 +41,19 @@
 
 <div class="publication-stat">
 <span class="publication-stat-value">5</span>
-<span class="publication-stat-label">(Co-)First</span>
+<span class="publication-stat-label">First</span>
+</div>
+
+<span class="publication-stat-separator" aria-hidden="true"></span>
+
+<div class="publication-stat">
+<span class="publication-stat-value">1</span>
+<span class="publication-stat-label">Oral</span>
+</div>
+
+<div class="publication-stat">
+<span class="publication-stat-value">1</span>
+<span class="publication-stat-label">Spotlight</span>
 </div>
 
 <span class="publication-stat-separator" aria-hidden="true"></span>
