@@ -58,7 +58,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026 (Oral)</span><img src='https://wzever.github.io/_pages/images/ueco.png' alt="ueco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(CCF-A) [**UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**](https://wzever.github.io/papers/NeurIPS26_UECO%20%2819%29.pdf) [[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/UECO?style=social)](https://github.com/Thinklab-SJTU/UECO)]
+(CCF-A) **UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**
 
 **Wenzheng Pan**, Shuyi Yan, [Nuoyan Chen](https://cny123222.github.io/about/), Yiyang Qu, [Jiale Ma](https://heatingma.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
@@ -69,7 +69,7 @@ We propose **UECO**, a unified encoder for neural combinatorial optimization wit
 <div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026</span><img src='https://wzever.github.io/_pages/images/corectifier.png' alt="corectifier" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(CCF-A) [**Rectified Policy Rollouts with Hierarchical Expert Guidance for Neural Combinatorial Optimization**](https://wzever.github.io/papers/NIPS26_ICLR27_CORectifier%20%283%29.pdf)
+(CCF-A) **Rectified Policy Rollouts with Hierarchical Expert Guidance for Neural Combinatorial Optimization**
 
 **Wenzheng Pan**, [Nuoyan Chen](https://cny123222.github.io/about/), [Jiaxi Liu](https://ecthelionliu.github.io), [Jiale Ma](https://heatingma.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
@@ -80,7 +80,7 @@ We introduce **CORectifier**, a hierarchical gated rectification mechanism that 
 <div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026 (Spotlight)</span><img src='https://wzever.github.io/_pages/images/nld4co.png' alt="nld4co" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(CCF-A) [**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://wzever.github.io/papers/NeurIPS26_Review_NLD4CO%20%282%29.pdf)
+(CCF-A) **NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**
 
 [Jiale Ma](https://heatingma.github.io/), **Wenzheng Pan**, Binghao Cai, Xihe Zhang, [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
