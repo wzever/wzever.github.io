@@ -8,6 +8,7 @@
 .publication-stat { display: inline-flex; align-items: baseline; gap: .3rem; min-width: 0; padding: .45rem .5rem; background: #fff; border: 1px solid #dbe3ec; border-radius: 6px; box-shadow: 0 3px 10px rgba(23,43,77,.04); }
 .publication-stat-value { color: #172b4d; font-size: 1.05rem; font-weight: 700; line-height: 1; }
 .publication-stat-label { color: #64748b; font-size: .68rem; font-weight: 600; letter-spacing: .035em; }
+.publication-stat--primary { width: 6.1rem; min-width: 6.1rem; box-sizing: border-box; }
 .publication-stat:before { background: #1f4f7a !important; }
 .publication-stat-value { color: #1f4f7a !important; }
 .publication-stat-separator { align-self: stretch; width: 1px; min-height: 1.6rem; margin: .2rem .2rem; background: #d4dde7; }
@@ -29,19 +30,19 @@
 
 <div class="publication-stats" aria-label="Publication statistics and venues">
 
-<div class="publication-stat">
+<div class="publication-stat publication-stat--primary">
 <span class="publication-stat-value">10</span>
 <span class="publication-stat-label">Total</span>
 </div>
 
-<div class="publication-stat">
+<div class="publication-stat publication-stat--primary">
 <span class="publication-stat-value">10</span>
 <span class="publication-stat-label">CCF-A</span>
 </div>
 
-<div class="publication-stat">
+<div class="publication-stat publication-stat--primary">
 <span class="publication-stat-value">5</span>
-<span class="publication-stat-label">First</span>
+<span class="publication-stat-label">First Author</span>
 </div>
 
 <span class="publication-stat-separator" aria-hidden="true"></span>
