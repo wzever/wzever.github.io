@@ -66,7 +66,7 @@ We propose **UECO**, a unified encoder for neural combinatorial optimization wit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026 (Spotlight)</span><img src='https://wzever.github.io/_pages/images/corectifier.png' alt="corectifier" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026</span><img src='https://wzever.github.io/_pages/images/corectifier.png' alt="corectifier" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (CCF-A) [**Rectified Policy Rollouts with Hierarchical Expert Guidance for Neural Combinatorial Optimization**](https://wzever.github.io/papers/NIPS26_ICLR27_CORectifier%20%283%29.pdf)
@@ -77,7 +77,7 @@ We introduce **CORectifier**, a hierarchical gated rectification mechanism that 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026</span><img src='https://wzever.github.io/_pages/images/nld4co.png' alt="nld4co" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026 (Spotlight)</span><img src='https://wzever.github.io/_pages/images/nld4co.png' alt="nld4co" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (CCF-A) [**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://wzever.github.io/papers/NeurIPS26_Review_NLD4CO%20%282%29.pdf)
