@@ -285,6 +285,10 @@ body {
     font-variant-numeric: tabular-nums;
 }
 
+.sidebar .author__visit-count {
+    min-width: 7.5rem;
+}
+
 .author__avatar img {
     border-color: var(--line);
     box-shadow: 0 4px 12px rgba(23, 43, 77, 0.1);
