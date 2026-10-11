@@ -71,7 +71,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026 (Oral)</span><img src='https://wzever.github.io/_pages/images/ueco.png' alt="ueco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning**](https://openreview.net/forum?id=M2lqt23VO7) [[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/UECO?style=social)](https://github.com/Thinklab-SJTU/UECO)]
+[**UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning**](https://openreview.net/forum?id=M2lqt23VO7) [[PDF](https://openreview.net/pdf?id=M2lqt23VO7)] [[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/UECO?style=social)](https://github.com/Thinklab-SJTU/UECO)]
 
 **Wenzheng Pan**, [Shuyi Yan](https://www.cozease.cn/), [Nuoyan Chen](https://cny123222.github.io/about/), Yiyang Qu, [Jiale Ma](https://heatingma.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
@@ -82,7 +82,8 @@ We propose **UECO**, a unified encoder for neural combinatorial optimization wit
 <div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026</span><img src='https://wzever.github.io/_pages/images/corectifier.png' alt="corectifier" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Rectified Policy Rollouts with Hierarchical Expert Guidance for Neural Combinatorial Optimization**](https://openreview.net/forum?id=bpt10w03zk)
+[**CORectifier: Hierarchically Rectifying Policy Rollouts
+for Reinforcement Learning in Combinatorial Solvers**](https://openreview.net/forum?id=bpt10w03zk) [[PDF](https://openreview.net/pdf?id=bpt10w03zk)][[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/CORectifier?style=social)](https://github.com/Thinklab-SJTU/CORectifier)]
 
 **Wenzheng Pan**, [Nuoyan Chen](https://cny123222.github.io/about/), [Jiaxi Liu](https://ecthelionliu.github.io), [Jiale Ma](https://heatingma.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
