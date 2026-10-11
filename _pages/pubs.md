@@ -71,7 +71,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026 (Oral)</span><img src='https://wzever.github.io/_pages/images/ueco.png' alt="ueco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**](https://openreview.net/forum?id=M2lqt23VO7)
+[**UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**](https://openreview.net/forum?id=M2lqt23VO7) [[Code ![github-stars](https://img.shields.io/github/stars/Thinklab-SJTU/UECO?style=social)](https://github.com/Thinklab-SJTU/UECO)]
 
 **Wenzheng Pan**, [Shuyi Yan](https://www.cozease.cn/), [Nuoyan Chen](https://cny123222.github.io/about/), Yiyang Qu, [Jiale Ma](https://heatingma.github.io/), [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
