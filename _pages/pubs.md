@@ -94,7 +94,7 @@ We introduce **CORectifier**, a hierarchical gated rectification mechanism that 
 <div class='paper-box'><div class='paper-box-image'><div><span class="badge">NeurIPS 2026 (Spotlight)</span><img src='https://wzever.github.io/_pages/images/nld4co.png' alt="nld4co" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://openreview.net/forum?id=mshiN8rReo)
+[**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://openreview.net/forum?id=mshiN8rReo) [[PDF](https://openreview.net/pdf?id=mshiN8rReo)]
 
 [Jiale Ma](https://heatingma.github.io/), **Wenzheng Pan**, Binghao Cai, Xihe Zhang, [Junchi Yan](https://thinklab.sjtu.edu.cn)
 
