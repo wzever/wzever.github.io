@@ -286,6 +286,7 @@ body {
 }
 
 .sidebar .author__visit-count {
+    flex-basis: 100%;
     min-width: 7.5rem;
 }
 
@@ -304,7 +305,7 @@ body {
     }
 
     .author__avatar img {
-        max-width: 210px;
+        max-width: 195px;
     }
 }
 
