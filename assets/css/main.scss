@@ -294,6 +294,20 @@ body {
     box-shadow: 0 4px 12px rgba(23, 43, 77, 0.1);
 }
 
+@include breakpoint($large) {
+    .sidebar {
+        @include span(2.5 of 12);
+    }
+
+    .page {
+        @include span(9.5 of 12 last);
+    }
+
+    .author__avatar img {
+        max-width: 210px;
+    }
+}
+
 .paper-box {
     position: relative;
     align-items: center;
