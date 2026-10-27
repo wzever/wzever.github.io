@@ -96,7 +96,7 @@ My research interests include learning to solve complex discrete optimization pr
 <a class="honor-card honor-card--linked" href="https://mp.weixin.qq.com/s/gDJEyJGGoN6MPZ1HHhnbGw" target="_blank" rel="noopener"><span class="honor-date">2026.09</span><span><strong>Yuanqing Yang Scholarship</strong> (“计算机85基金暨杨元庆教育基金“优秀硕士生奖学金 | <strong>2 Master's students</strong> in CS)</span></a>
 <div class="honor-card"><span class="honor-date">2026.05</span><span><strong>Gold Reviewer for ICML 2026</strong></span></div>
 <div class="honor-card"><span class="honor-date">2025.11</span><span><strong>First-class Academic Scholarship</strong> of SJTU (研究生学业<strong>一等奖学金</strong> | <strong>top 10%</strong> in CS)</span></div>
-<div class="honor-card"><span class="honor-date">2025.10</span><span>(PRC) <strong>National Scholarship</strong> for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
+<div class="honor-card"><span class="honor-date">2025.10</span><span> <strong>National Scholarship</strong> for Graduate Student (研究生<strong>国家奖学金</strong> | <strong>top 2%</strong> nationwide)</span></div>
 <div class="honor-card"><span class="honor-date">2025.09</span><span><strong>Merit Student</strong> of Shanghai Jiao Tong University (上海交通大学<strong>三好学生</strong> | <strong>top 8%</strong> in SJTU)</span></div>
 <div class="honor-card"><span class="honor-date">2024.06</span><span><strong>Outstanding Graduate</strong> of Shanghai Jiao Tong University (上海交通大学<strong>本科优秀毕业生</strong> | <strong>top 10%</strong> in SJTU)</span></div>
 <div class="honor-card"><span class="honor-date">2021-2023</span><span>(Annual) <strong>Academic Excellence Scholarship</strong> (上海交通大学优秀奖学金 | <strong>top 10%</strong> in CS)</span></div>
