@@ -108,7 +108,7 @@ My research interests include learning to solve complex discrete optimization pr
 <span class='anchor' id='academic-services'></span>
 ## 🔍 Academic Services
 ---
-- **Reviewer**: **ICML'26 (Gold Reviewer)**, **NeurIPS'25-26**, **ICLR'25-27**, **AAAI'27**, **AAMAS'26**.
+- **Reviewer**: **ICML'26 (Gold Reviewer)**, **NeurIPS'25-26**, **ICLR'25-27**, **AAAI'27**, **AAMAS'26**, **WWW'27**.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
